@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. 線段切割", "Problem 2. 線段切割\Problem 2. 線段切割.csproj", "{69263B15-0B30-4E72-B2BD-F58D88C50C19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69263B15-0B30-4E72-B2BD-F58D88C50C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69263B15-0B30-4E72-B2BD-F58D88C50C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69263B15-0B30-4E72-B2BD-F58D88C50C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69263B15-0B30-4E72-B2BD-F58D88C50C19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F1F4C55-4BF0-4011-8054-E24CA6C0C4F9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\bin\Debug\身分證驗證V2.exe.config
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\bin\Debug\身分證驗證V2.exe
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\bin\Debug\身分證驗證V2.pdb
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\obj\Debug\身分證驗證V2.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\obj\Debug\身分證驗證V2.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\obj\Debug\身分證驗證V2.exe
+P:\OneDrive\CSharp\身分證驗證V2\身分證驗證V2\obj\Debug\身分證驗證V2.pdb

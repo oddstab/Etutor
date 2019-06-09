@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\bin\Debug\[C_OT66-中] 成績搜尋.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\bin\Debug\[C_OT66-中] 成績搜尋.exe
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\bin\Debug\[C_OT66-中] 成績搜尋.pdb
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\obj\Debug\[C_OT66-中] 成績搜尋.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\obj\Debug\[C_OT66-中] 成績搜尋.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\obj\Debug\[C_OT66-中] 成績搜尋.exe
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT66-中] 成績搜尋\[C_OT66-中] 成績搜尋\obj\Debug\[C_OT66-中] 成績搜尋.pdb

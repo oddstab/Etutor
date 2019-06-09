@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR20-易] 檢查數值是否有重複\[C_AR20-易] 檢查數值是否有重複\bin\Debug\[C_AR20-易] 檢查數值是否有重複.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR20-易] 檢查數值是否有重複\[C_AR20-易] 檢查數值是否有重複\bin\Debug\[C_AR20-易] 檢查數值是否有重複.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR20-易] 檢查數值是否有重複\[C_AR20-易] 檢查數值是否有重複\bin\Debug\[C_AR20-易] 檢查數值是否有重複.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR20-易] 檢查數值是否有重複\[C_AR20-易] 檢查數值是否有重複\obj\Debug\[C_AR20-易] 檢查數值是否有重複.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR20-易] 檢查數值是否有重複\[C_AR20-易] 檢查數值是否有重複\obj\Debug\[C_AR20-易] 檢查數值是否有重複.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR20-易] 檢查數值是否有重複\[C_AR20-易] 檢查數值是否有重複\obj\Debug\[C_AR20-易] 檢查數值是否有重複.pdb

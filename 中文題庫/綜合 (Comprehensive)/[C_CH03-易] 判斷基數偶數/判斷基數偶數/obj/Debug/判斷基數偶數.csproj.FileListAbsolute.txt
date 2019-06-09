@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\判斷基數偶數\判斷基數偶數\bin\Debug\判斷基數偶數.exe.config
+P:\OneDrive\CSharp\判斷基數偶數\判斷基數偶數\bin\Debug\判斷基數偶數.exe
+P:\OneDrive\CSharp\判斷基數偶數\判斷基數偶數\bin\Debug\判斷基數偶數.pdb
+P:\OneDrive\CSharp\判斷基數偶數\判斷基數偶數\obj\Debug\判斷基數偶數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\判斷基數偶數\判斷基數偶數\obj\Debug\判斷基數偶數.exe
+P:\OneDrive\CSharp\判斷基數偶數\判斷基數偶數\obj\Debug\判斷基數偶數.pdb

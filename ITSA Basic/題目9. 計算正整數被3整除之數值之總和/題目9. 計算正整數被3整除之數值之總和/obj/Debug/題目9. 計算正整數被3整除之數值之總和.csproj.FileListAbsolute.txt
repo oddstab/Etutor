@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\bin\Debug\題目9.計算正整數被3整除之數值之總和.exe.config
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\bin\Debug\題目9.計算正整數被3整除之數值之總和.exe
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\bin\Debug\題目9.計算正整數被3整除之數值之總和.pdb
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\obj\Debug\題目9. 計算正整數被3整除之數值之總和.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\obj\Debug\題目9. 計算正整數被3整除之數值之總和.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\obj\Debug\題目9.計算正整數被3整除之數值之總和.exe
+P:\OneDrive\CSharp\題目9. 計算正整數被3整除之數值之總和\題目9. 計算正整數被3整除之數值之總和\obj\Debug\題目9.計算正整數被3整除之數值之總和.pdb

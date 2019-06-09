@@ -1,0 +1,6 @@
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 3. 最大單調遞減數字子序列\Problem 3. 最大單調遞減數字子序列\bin\Debug\Problem_3.最大單調遞減數字子序列.exe.config
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 3. 最大單調遞減數字子序列\Problem 3. 最大單調遞減數字子序列\bin\Debug\Problem_3.最大單調遞減數字子序列.exe
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 3. 最大單調遞減數字子序列\Problem 3. 最大單調遞減數字子序列\bin\Debug\Problem_3.最大單調遞減數字子序列.pdb
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 3. 最大單調遞減數字子序列\Problem 3. 最大單調遞減數字子序列\obj\Debug\Problem 3. 最大單調遞減數字子序列.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 3. 最大單調遞減數字子序列\Problem 3. 最大單調遞減數字子序列\obj\Debug\Problem_3.最大單調遞減數字子序列.exe
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 3. 最大單調遞減數字子序列\Problem 3. 最大單調遞減數字子序列\obj\Debug\Problem_3.最大單調遞減數字子序列.pdb

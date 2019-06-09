@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\bin\Debug\[C_AR131-易] 判斷OX遊戲的勝負.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\bin\Debug\[C_AR131-易] 判斷OX遊戲的勝負.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\bin\Debug\[C_AR131-易] 判斷OX遊戲的勝負.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\obj\Debug\[C_AR131-易] 判斷OX遊戲的勝負.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\obj\Debug\[C_AR131-易] 判斷OX遊戲的勝負.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\obj\Debug\[C_AR131-易] 判斷OX遊戲的勝負.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR131-易] 判斷OX遊戲的勝負\[C_AR131-易] 判斷OX遊戲的勝負\obj\Debug\[C_AR131-易] 判斷OX遊戲的勝負.pdb

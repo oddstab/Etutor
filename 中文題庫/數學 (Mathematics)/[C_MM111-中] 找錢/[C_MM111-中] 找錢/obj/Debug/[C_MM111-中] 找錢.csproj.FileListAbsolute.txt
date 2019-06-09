@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\bin\Debug\[C_MM111-中] 找錢.exe.config
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\bin\Debug\[C_MM111-中] 找錢.exe
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\bin\Debug\[C_MM111-中] 找錢.pdb
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\obj\Debug\[C_MM111-中] 找錢.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\obj\Debug\[C_MM111-中] 找錢.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\obj\Debug\[C_MM111-中] 找錢.exe
+P:\OneDrive\CSharp\Etutor\數學 III (Mathematics III)\[C_MM111-中] 找錢\[C_MM111-中] 找錢\obj\Debug\[C_MM111-中] 找錢.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\bin\Debug\題目33.一整數序列所含之整數個數及平均值.exe.config
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\bin\Debug\題目33.一整數序列所含之整數個數及平均值.exe
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\bin\Debug\題目33.一整數序列所含之整數個數及平均值.pdb
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\obj\Debug\題目33. 一整數序列所含之整數個數及平均值.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\obj\Debug\題目33. 一整數序列所含之整數個數及平均值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\obj\Debug\題目33.一整數序列所含之整數個數及平均值.exe
+P:\OneDrive\CSharp\題目33. 一整數序列所含之整數個數及平均值\題目33. 一整數序列所含之整數個數及平均值\obj\Debug\題目33.一整數序列所含之整數個數及平均值.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\bin\Debug\[C_AR38-易] 反轉表.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\bin\Debug\[C_AR38-易] 反轉表.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\bin\Debug\[C_AR38-易] 反轉表.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\obj\Debug\[C_AR38-易] 反轉表.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\obj\Debug\[C_AR38-易] 反轉表.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\obj\Debug\[C_AR38-易] 反轉表.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR38-易] 反轉表\[C_AR38-易] 反轉表\obj\Debug\[C_AR38-易] 反轉表.pdb

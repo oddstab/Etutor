@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\bin\Debug\[AR50-中] Calculate odd magic square.exe.config
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\bin\Debug\[AR50-中] Calculate odd magic square.exe
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\bin\Debug\[AR50-中] Calculate odd magic square.pdb
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\obj\Debug\[AR50-中] Calculate odd magic square.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\obj\Debug\[AR50-中] Calculate odd magic square.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\obj\Debug\[AR50-中] Calculate odd magic square.exe
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR50-中] Calculate odd magic square\[AR50-中] Calculate odd magic square\obj\Debug\[AR50-中] Calculate odd magic square.pdb

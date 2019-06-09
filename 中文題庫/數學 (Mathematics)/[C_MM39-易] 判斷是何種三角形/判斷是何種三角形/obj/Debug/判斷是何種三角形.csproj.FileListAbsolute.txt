@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\bin\Debug\判斷是何種三角形.exe.config
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\bin\Debug\判斷是何種三角形.exe
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\bin\Debug\判斷是何種三角形.pdb
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\obj\Debug\判斷是何種三角形.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\obj\Debug\判斷是何種三角形.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\obj\Debug\判斷是何種三角形.exe
+P:\OneDrive\CSharp\判斷是何種三角形\判斷是何種三角形\obj\Debug\判斷是何種三角形.pdb

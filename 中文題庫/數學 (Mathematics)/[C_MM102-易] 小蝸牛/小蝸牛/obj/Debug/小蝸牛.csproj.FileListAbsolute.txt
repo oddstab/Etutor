@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\bin\Debug\小蝸牛.exe.config
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\bin\Debug\小蝸牛.exe
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\bin\Debug\小蝸牛.pdb
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\obj\Debug\小蝸牛.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\obj\Debug\小蝸牛.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\obj\Debug\小蝸牛.exe
+P:\OneDrive\CSharp\小蝸牛\小蝸牛\obj\Debug\小蝸牛.pdb

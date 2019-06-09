@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST79-中] 文字接龍", "[C_ST79-中] 文字接龍\[C_ST79-中] 文字接龍.csproj", "{B80F6674-6D53-4BB4-8FBC-C65F94482BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80F6674-6D53-4BB4-8FBC-C65F94482BED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80F6674-6D53-4BB4-8FBC-C65F94482BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80F6674-6D53-4BB4-8FBC-C65F94482BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80F6674-6D53-4BB4-8FBC-C65F94482BED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF29C033-FE0D-4F77-90C6-0F4AFCCBD698}
+	EndGlobalSection
+EndGlobal

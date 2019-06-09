@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\bin\Debug\[C_AR160-易] 稀疏矩陣還原.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\bin\Debug\[C_AR160-易] 稀疏矩陣還原.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\bin\Debug\[C_AR160-易] 稀疏矩陣還原.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\obj\Debug\[C_AR160-易] 稀疏矩陣還原.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\obj\Debug\[C_AR160-易] 稀疏矩陣還原.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\obj\Debug\[C_AR160-易] 稀疏矩陣還原.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR160-易] 稀疏矩陣還原\[C_AR160-易] 稀疏矩陣還原\obj\Debug\[C_AR160-易] 稀疏矩陣還原.pdb

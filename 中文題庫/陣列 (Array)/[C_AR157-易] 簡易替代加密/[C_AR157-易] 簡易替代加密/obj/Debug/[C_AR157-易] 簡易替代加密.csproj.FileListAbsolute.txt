@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\bin\Debug\[C_AR157-易] 簡易替代加密.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\bin\Debug\[C_AR157-易] 簡易替代加密.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\bin\Debug\[C_AR157-易] 簡易替代加密.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\obj\Debug\[C_AR157-易] 簡易替代加密.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\obj\Debug\[C_AR157-易] 簡易替代加密.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\obj\Debug\[C_AR157-易] 簡易替代加密.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR157-易] 簡易替代加密\[C_AR157-易] 簡易替代加密\obj\Debug\[C_AR157-易] 簡易替代加密.pdb

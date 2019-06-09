@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\成績判斷\成績判斷\bin\Debug\成績判斷.exe.config
+P:\OneDrive\CSharp\成績判斷\成績判斷\bin\Debug\成績判斷.exe
+P:\OneDrive\CSharp\成績判斷\成績判斷\bin\Debug\成績判斷.pdb
+P:\OneDrive\CSharp\成績判斷\成績判斷\obj\Debug\成績判斷.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\成績判斷\成績判斷\obj\Debug\成績判斷.exe
+P:\OneDrive\CSharp\成績判斷\成績判斷\obj\Debug\成績判斷.pdb

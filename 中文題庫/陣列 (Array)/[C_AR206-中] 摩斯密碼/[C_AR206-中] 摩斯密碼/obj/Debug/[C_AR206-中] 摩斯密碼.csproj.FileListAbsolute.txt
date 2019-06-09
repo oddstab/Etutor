@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\bin\Debug\[C_AR206-中] 摩斯密碼.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\bin\Debug\[C_AR206-中] 摩斯密碼.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\bin\Debug\[C_AR206-中] 摩斯密碼.pdb
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\obj\Debug\[C_AR206-中] 摩斯密碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\obj\Debug\[C_AR206-中] 摩斯密碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\obj\Debug\[C_AR206-中] 摩斯密碼.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR206-中] 摩斯密碼\[C_AR206-中] 摩斯密碼\obj\Debug\[C_AR206-中] 摩斯密碼.pdb

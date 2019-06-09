@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\bin\Debug\Problem_1.英文斷詞.exe.config
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\bin\Debug\Problem_1.英文斷詞.exe
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\bin\Debug\Problem_1.英文斷詞.pdb
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\obj\Debug\Problem 1. 英文斷詞.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\obj\Debug\Problem_1.英文斷詞.exe
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\obj\Debug\Problem_1.英文斷詞.pdb
+P:\OneDrive\C#\Etutor\ITSA\55\Problem 1. 英文斷詞\Problem 1. 英文斷詞\obj\Debug\Problem 1. 英文斷詞.csprojAssemblyReference.cache

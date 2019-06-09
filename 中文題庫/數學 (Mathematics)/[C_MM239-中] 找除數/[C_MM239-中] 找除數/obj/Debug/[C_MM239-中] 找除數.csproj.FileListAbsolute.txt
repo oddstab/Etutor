@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\bin\Debug\[C_MM239-中] 找除數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\bin\Debug\[C_MM239-中] 找除數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\bin\Debug\[C_MM239-中] 找除數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\obj\Debug\[C_MM239-中] 找除數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\obj\Debug\[C_MM239-中] 找除數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\obj\Debug\[C_MM239-中] 找除數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 V (Mathematics V)\[C_MM239-中] 找除數\[C_MM239-中] 找除數\obj\Debug\[C_MM239-中] 找除數.pdb

@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\bin\Debug\統一發票對獎.exe.config
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\bin\Debug\統一發票對獎.exe
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\bin\Debug\統一發票對獎.pdb
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.exe
+P:\OneDrive\CSharp\統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.pdb
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\bin\Debug\統一發票對獎.exe.config
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\bin\Debug\統一發票對獎.exe
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\bin\Debug\統一發票對獎.pdb
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.exe
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目28. 統一發票對獎\統一發票對獎\obj\Debug\統一發票對獎.pdb

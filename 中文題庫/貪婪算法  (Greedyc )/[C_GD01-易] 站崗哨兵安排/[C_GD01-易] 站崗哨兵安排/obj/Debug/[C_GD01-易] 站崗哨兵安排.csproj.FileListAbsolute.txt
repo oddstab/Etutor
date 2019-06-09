@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\bin\Debug\[C_GD01-易] 站崗哨兵安排.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\bin\Debug\[C_GD01-易] 站崗哨兵安排.exe
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\bin\Debug\[C_GD01-易] 站崗哨兵安排.pdb
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\obj\Debug\[C_GD01-易] 站崗哨兵安排.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\obj\Debug\[C_GD01-易] 站崗哨兵安排.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\obj\Debug\[C_GD01-易] 站崗哨兵安排.exe
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法  (Greedyc )\[C_GD01-易] 站崗哨兵安排\[C_GD01-易] 站崗哨兵安排\obj\Debug\[C_GD01-易] 站崗哨兵安排.pdb

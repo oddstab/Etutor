@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\題目16. 子字串出現次數\題目16. 子字串出現次數\bin\Debug\題目16.子字串出現次數.exe.config
+P:\OneDrive\CSharp\題目16. 子字串出現次數\題目16. 子字串出現次數\bin\Debug\題目16.子字串出現次數.exe
+P:\OneDrive\CSharp\題目16. 子字串出現次數\題目16. 子字串出現次數\bin\Debug\題目16.子字串出現次數.pdb
+P:\OneDrive\CSharp\題目16. 子字串出現次數\題目16. 子字串出現次數\obj\Debug\題目16. 子字串出現次數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\題目16. 子字串出現次數\題目16. 子字串出現次數\obj\Debug\題目16.子字串出現次數.exe
+P:\OneDrive\CSharp\題目16. 子字串出現次數\題目16. 子字串出現次數\obj\Debug\題目16.子字串出現次數.pdb

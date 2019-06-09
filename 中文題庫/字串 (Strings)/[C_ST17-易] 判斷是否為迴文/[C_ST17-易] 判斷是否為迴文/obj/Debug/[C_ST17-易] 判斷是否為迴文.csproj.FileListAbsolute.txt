@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\bin\Debug\[C_ST17-易] 判斷是否為迴文.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\bin\Debug\[C_ST17-易] 判斷是否為迴文.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\bin\Debug\[C_ST17-易] 判斷是否為迴文.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\obj\Debug\[C_ST17-易] 判斷是否為迴文.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\obj\Debug\[C_ST17-易] 判斷是否為迴文.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\obj\Debug\[C_ST17-易] 判斷是否為迴文.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST17-易] 判斷是否為迴文\[C_ST17-易] 判斷是否為迴文\obj\Debug\[C_ST17-易] 判斷是否為迴文.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\bin\Debug\[C_AR152-易] 正整數統計.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\bin\Debug\[C_AR152-易] 正整數統計.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\bin\Debug\[C_AR152-易] 正整數統計.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\obj\Debug\[C_AR152-易] 正整數統計.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\obj\Debug\[C_AR152-易] 正整數統計.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\obj\Debug\[C_AR152-易] 正整數統計.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR152-易] 正整數統計\[C_AR152-易] 正整數統計\obj\Debug\[C_AR152-易] 正整數統計.pdb

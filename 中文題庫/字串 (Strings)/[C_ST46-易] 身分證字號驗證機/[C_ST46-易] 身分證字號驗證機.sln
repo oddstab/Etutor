@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST46-易] 身分證字號驗證機", "[C_ST46-易] 身分證字號驗證機\[C_ST46-易] 身分證字號驗證機.csproj", "{71282143-FA55-452E-A8B1-FDDA4F4D5D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71282143-FA55-452E-A8B1-FDDA4F4D5D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71282143-FA55-452E-A8B1-FDDA4F4D5D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71282143-FA55-452E-A8B1-FDDA4F4D5D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71282143-FA55-452E-A8B1-FDDA4F4D5D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {945A24BF-8F78-4B8E-994F-1756EF5B0844}
+	EndGlobalSection
+EndGlobal

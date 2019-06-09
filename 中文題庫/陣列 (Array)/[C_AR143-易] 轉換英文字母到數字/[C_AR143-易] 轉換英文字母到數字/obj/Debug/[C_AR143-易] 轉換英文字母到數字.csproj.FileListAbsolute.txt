@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\bin\Debug\[C_AR143-易] 轉換英文字母到數字.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\bin\Debug\[C_AR143-易] 轉換英文字母到數字.exe
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\bin\Debug\[C_AR143-易] 轉換英文字母到數字.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\obj\Debug\[C_AR143-易] 轉換英文字母到數字.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\obj\Debug\[C_AR143-易] 轉換英文字母到數字.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\obj\Debug\[C_AR143-易] 轉換英文字母到數字.exe
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR143-易] 轉換英文字母到數字\[C_AR143-易] 轉換英文字母到數字\obj\Debug\[C_AR143-易] 轉換英文字母到數字.pdb

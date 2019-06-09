@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\bin\Debug\[C_ST108-易] 重組字.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\bin\Debug\[C_ST108-易] 重組字.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\bin\Debug\[C_ST108-易] 重組字.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\obj\Debug\[C_ST108-易] 重組字.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\obj\Debug\[C_ST108-易] 重組字.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\obj\Debug\[C_ST108-易] 重組字.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST108-易] 重組字\[C_ST108-易] 重組字\obj\Debug\[C_ST108-易] 重組字.pdb

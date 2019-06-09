@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\bin\Debug\[C_ST104-易] 單字音節.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\bin\Debug\[C_ST104-易] 單字音節.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\bin\Debug\[C_ST104-易] 單字音節.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\obj\Debug\[C_ST104-易] 單字音節.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\obj\Debug\[C_ST104-易] 單字音節.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\obj\Debug\[C_ST104-易] 單字音節.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST104-易] 單字音節\[C_ST104-易] 單字音節\obj\Debug\[C_ST104-易] 單字音節.pdb

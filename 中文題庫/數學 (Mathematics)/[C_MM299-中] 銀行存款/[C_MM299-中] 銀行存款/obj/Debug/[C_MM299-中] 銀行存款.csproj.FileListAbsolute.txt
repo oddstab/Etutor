@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\bin\Debug\[C_MM299-中] 銀行存款.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\bin\Debug\[C_MM299-中] 銀行存款.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\bin\Debug\[C_MM299-中] 銀行存款.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\obj\Debug\[C_MM299-中] 銀行存款.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\obj\Debug\[C_MM299-中] 銀行存款.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\obj\Debug\[C_MM299-中] 銀行存款.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM299-中] 銀行存款\[C_MM299-中] 銀行存款\obj\Debug\[C_MM299-中] 銀行存款.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\複數運算\複數運算\bin\Debug\複數運算.exe.config
+P:\OneDrive\CSharp\複數運算\複數運算\bin\Debug\複數運算.exe
+P:\OneDrive\CSharp\複數運算\複數運算\bin\Debug\複數運算.pdb
+P:\OneDrive\CSharp\複數運算\複數運算\obj\Debug\複數運算.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\複數運算\複數運算\obj\Debug\複數運算.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\複數運算\複數運算\obj\Debug\複數運算.exe
+P:\OneDrive\CSharp\複數運算\複數運算\obj\Debug\複數運算.pdb

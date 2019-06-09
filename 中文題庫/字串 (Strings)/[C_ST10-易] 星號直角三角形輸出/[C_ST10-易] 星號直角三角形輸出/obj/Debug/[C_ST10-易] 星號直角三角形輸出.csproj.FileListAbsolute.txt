@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\bin\Debug\[C_ST10-易] 星號直角三角形輸出.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\bin\Debug\[C_ST10-易] 星號直角三角形輸出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\bin\Debug\[C_ST10-易] 星號直角三角形輸出.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\obj\Debug\[C_ST10-易] 星號直角三角形輸出.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\obj\Debug\[C_ST10-易] 星號直角三角形輸出.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\obj\Debug\[C_ST10-易] 星號直角三角形輸出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST10-易] 星號直角三角形輸出\[C_ST10-易] 星號直角三角形輸出\obj\Debug\[C_ST10-易] 星號直角三角形輸出.pdb

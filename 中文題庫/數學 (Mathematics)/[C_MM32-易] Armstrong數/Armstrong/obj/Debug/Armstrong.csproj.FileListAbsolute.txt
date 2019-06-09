@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Armstrong\Armstrong\bin\Debug\Armstrong.exe.config
+P:\OneDrive\CSharp\Armstrong\Armstrong\bin\Debug\Armstrong.exe
+P:\OneDrive\CSharp\Armstrong\Armstrong\bin\Debug\Armstrong.pdb
+P:\OneDrive\CSharp\Armstrong\Armstrong\obj\Debug\Armstrong.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Armstrong\Armstrong\obj\Debug\Armstrong.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Armstrong\Armstrong\obj\Debug\Armstrong.exe
+P:\OneDrive\CSharp\Armstrong\Armstrong\obj\Debug\Armstrong.pdb

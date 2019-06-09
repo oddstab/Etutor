@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\bin\Debug\[C_AR022-易] 字母出現的頻率.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\bin\Debug\[C_AR022-易] 字母出現的頻率.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\bin\Debug\[C_AR022-易] 字母出現的頻率.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\obj\Debug\[C_AR022-易] 字母出現的頻率.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\obj\Debug\[C_AR022-易] 字母出現的頻率.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\obj\Debug\[C_AR022-易] 字母出現的頻率.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR022-易] 字母出現的頻率\[C_AR022-易] 字母出現的頻率\obj\Debug\[C_AR022-易] 字母出現的頻率.pdb

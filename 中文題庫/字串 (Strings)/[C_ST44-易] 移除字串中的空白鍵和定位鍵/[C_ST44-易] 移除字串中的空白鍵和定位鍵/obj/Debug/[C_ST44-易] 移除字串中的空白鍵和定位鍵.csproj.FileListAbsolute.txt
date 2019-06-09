@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST44-易] 移除字串中的空白鍵和定位鍵\[C_ST44-易] 移除字串中的空白鍵和定位鍵\bin\Debug\[C_ST44-易] 移除字串中的空白鍵和定位鍵.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST44-易] 移除字串中的空白鍵和定位鍵\[C_ST44-易] 移除字串中的空白鍵和定位鍵\bin\Debug\[C_ST44-易] 移除字串中的空白鍵和定位鍵.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST44-易] 移除字串中的空白鍵和定位鍵\[C_ST44-易] 移除字串中的空白鍵和定位鍵\bin\Debug\[C_ST44-易] 移除字串中的空白鍵和定位鍵.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST44-易] 移除字串中的空白鍵和定位鍵\[C_ST44-易] 移除字串中的空白鍵和定位鍵\obj\Debug\[C_ST44-易] 移除字串中的空白鍵和定位鍵.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST44-易] 移除字串中的空白鍵和定位鍵\[C_ST44-易] 移除字串中的空白鍵和定位鍵\obj\Debug\[C_ST44-易] 移除字串中的空白鍵和定位鍵.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST44-易] 移除字串中的空白鍵和定位鍵\[C_ST44-易] 移除字串中的空白鍵和定位鍵\obj\Debug\[C_ST44-易] 移除字串中的空白鍵和定位鍵.pdb

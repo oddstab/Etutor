@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\bin\Debug\[C_ST13-易] 數字菱形輸出.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\bin\Debug\[C_ST13-易] 數字菱形輸出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\bin\Debug\[C_ST13-易] 數字菱形輸出.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\bin\Debug\[C_ST13-易] 數字菱形輸出.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\bin\Debug\[C_ST13-易] 數字菱形輸出.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\bin\Debug\[C_ST13-易] 數字菱形輸出.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST13-易] 數字菱形輸出\[C_ST13-易] 數字菱形輸出\obj\Debug\[C_ST13-易] 數字菱形輸出.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\bin\Debug\ISBN碼.exe.config
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\bin\Debug\ISBN碼.exe
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\bin\Debug\ISBN碼.pdb
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\obj\Debug\ISBN碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\obj\Debug\ISBN碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\obj\Debug\ISBN碼.exe
+P:\OneDrive\CSharp\ISBN碼\ISBN碼\obj\Debug\ISBN碼.pdb

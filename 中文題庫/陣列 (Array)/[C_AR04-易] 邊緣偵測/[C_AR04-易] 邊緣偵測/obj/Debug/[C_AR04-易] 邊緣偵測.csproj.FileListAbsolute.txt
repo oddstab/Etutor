@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\bin\Debug\[C_AR04-易] 邊緣偵測.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\bin\Debug\[C_AR04-易] 邊緣偵測.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\bin\Debug\[C_AR04-易] 邊緣偵測.pdb
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\obj\Debug\[C_AR04-易] 邊緣偵測.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\obj\Debug\[C_AR04-易] 邊緣偵測.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\obj\Debug\[C_AR04-易] 邊緣偵測.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR04-易] 邊緣偵測\[C_AR04-易] 邊緣偵測\obj\Debug\[C_AR04-易] 邊緣偵測.pdb

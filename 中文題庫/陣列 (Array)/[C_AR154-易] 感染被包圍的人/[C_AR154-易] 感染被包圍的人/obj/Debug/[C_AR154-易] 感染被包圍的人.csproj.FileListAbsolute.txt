@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\bin\Debug\[C_AR154-易] 感染被包圍的人.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\bin\Debug\[C_AR154-易] 感染被包圍的人.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\bin\Debug\[C_AR154-易] 感染被包圍的人.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\obj\Debug\[C_AR154-易] 感染被包圍的人.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\obj\Debug\[C_AR154-易] 感染被包圍的人.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\obj\Debug\[C_AR154-易] 感染被包圍的人.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR154-易] 感染被包圍的人\[C_AR154-易] 感染被包圍的人\obj\Debug\[C_AR154-易] 感染被包圍的人.pdb

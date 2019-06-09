@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\bin\Debug\[C_ST86-易] 解加密的電話號碼.exe.config
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\bin\Debug\[C_ST86-易] 解加密的電話號碼.exe
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\bin\Debug\[C_ST86-易] 解加密的電話號碼.pdb
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.exe
+P:\OneDrive\CSharp\Etutor\字串 (Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\bin\Debug\[C_ST86-易] 解加密的電話號碼.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\bin\Debug\[C_ST86-易] 解加密的電話號碼.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\bin\Debug\[C_ST86-易] 解加密的電話號碼.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST86-易] 解加密的電話號碼\[C_ST86-易] 解加密的電話號碼\obj\Debug\[C_ST86-易] 解加密的電話號碼.pdb

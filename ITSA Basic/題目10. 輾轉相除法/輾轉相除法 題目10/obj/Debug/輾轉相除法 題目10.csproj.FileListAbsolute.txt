@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\bin\Debug\輾轉相除法 題目10.exe.config
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\bin\Debug\輾轉相除法 題目10.exe
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\bin\Debug\輾轉相除法 題目10.pdb
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\obj\Debug\輾轉相除法 題目10.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\obj\Debug\輾轉相除法 題目10.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\obj\Debug\輾轉相除法 題目10.exe
+P:\OneDrive\CSharp\輾轉相除法 題目10\輾轉相除法 題目10\obj\Debug\輾轉相除法 題目10.pdb

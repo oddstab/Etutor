@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR33-易] 轉置矩陣\[C_AR33-易] 轉置矩陣\bin\Debug\[C_AR33-易] 轉置矩陣.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR33-易] 轉置矩陣\[C_AR33-易] 轉置矩陣\bin\Debug\[C_AR33-易] 轉置矩陣.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR33-易] 轉置矩陣\[C_AR33-易] 轉置矩陣\bin\Debug\[C_AR33-易] 轉置矩陣.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR33-易] 轉置矩陣\[C_AR33-易] 轉置矩陣\obj\Debug\[C_AR33-易] 轉置矩陣.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR33-易] 轉置矩陣\[C_AR33-易] 轉置矩陣\obj\Debug\[C_AR33-易] 轉置矩陣.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR33-易] 轉置矩陣\[C_AR33-易] 轉置矩陣\obj\Debug\[C_AR33-易] 轉置矩陣.pdb

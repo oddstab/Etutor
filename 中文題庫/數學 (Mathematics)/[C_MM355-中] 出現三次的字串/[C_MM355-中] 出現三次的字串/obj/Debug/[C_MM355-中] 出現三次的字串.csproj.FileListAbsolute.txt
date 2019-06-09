@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\bin\Debug\[C_MM355-中] 出現三次的字串.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\bin\Debug\[C_MM355-中] 出現三次的字串.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\bin\Debug\[C_MM355-中] 出現三次的字串.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\obj\Debug\[C_MM355-中] 出現三次的字串.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\obj\Debug\[C_MM355-中] 出現三次的字串.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\obj\Debug\[C_MM355-中] 出現三次的字串.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM355-中] 出現三次的字串\[C_MM355-中] 出現三次的字串\obj\Debug\[C_MM355-中] 出現三次的字串.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

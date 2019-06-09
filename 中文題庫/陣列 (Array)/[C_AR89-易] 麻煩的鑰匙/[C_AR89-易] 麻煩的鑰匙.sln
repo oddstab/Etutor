@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR89-易] 麻煩的鑰匙", "[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙.csproj", "{5030867C-D625-4145-9021-97F109AED552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5030867C-D625-4145-9021-97F109AED552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5030867C-D625-4145-9021-97F109AED552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5030867C-D625-4145-9021-97F109AED552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5030867C-D625-4145-9021-97F109AED552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C8CCEC-5F06-4392-B077-0839A7A0C6CD}
+	EndGlobalSection
+EndGlobal

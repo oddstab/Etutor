@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\bin\Debug\[C_MM40-易] 1~N之間的總和.exe.config
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\bin\Debug\[C_MM40-易] 1~N之間的總和.exe
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\bin\Debug\[C_MM40-易] 1~N之間的總和.pdb
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\obj\Debug\[C_MM40-易] 1~N之間的總和.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\obj\Debug\[C_MM40-易] 1~N之間的總和.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\obj\Debug\[C_MM40-易] 1~N之間的總和.exe
+P:\OneDrive\CSharp\Mathematics I\[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和\obj\Debug\[C_MM40-易] 1~N之間的總和.pdb

@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\bin\Debug\72.exe.config
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\bin\Debug\72.exe
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\bin\Debug\72.pdb
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\obj\Debug\72.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\obj\Debug\72.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\obj\Debug\72.exe
+C:\Users\User\OneDrive\程式設計\C#\Etutor\ITSA\72\72\obj\Debug\72.pdb

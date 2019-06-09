@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST41-中] 字串取代\[C_ST41-中] 字串取代\bin\Debug\[C_ST41-中] 字串取代.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST41-中] 字串取代\[C_ST41-中] 字串取代\bin\Debug\[C_ST41-中] 字串取代.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST41-中] 字串取代\[C_ST41-中] 字串取代\bin\Debug\[C_ST41-中] 字串取代.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST41-中] 字串取代\[C_ST41-中] 字串取代\obj\Debug\[C_ST41-中] 字串取代.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST41-中] 字串取代\[C_ST41-中] 字串取代\obj\Debug\[C_ST41-中] 字串取代.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST41-中] 字串取代\[C_ST41-中] 字串取代\obj\Debug\[C_ST41-中] 字串取代.pdb

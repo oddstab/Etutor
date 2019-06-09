@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\bin\Debug\[C_ST05-易] 選讀大學.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\bin\Debug\[C_ST05-易] 選讀大學.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\bin\Debug\[C_ST05-易] 選讀大學.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\bin\Debug\[C_ST05-易] 選讀大學.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\bin\Debug\[C_ST05-易] 選讀大學.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\bin\Debug\[C_ST05-易] 選讀大學.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST05-易] 選讀大學\[C_ST05-易] 選讀大學\obj\Debug\[C_ST05-易] 選讀大學.pdb

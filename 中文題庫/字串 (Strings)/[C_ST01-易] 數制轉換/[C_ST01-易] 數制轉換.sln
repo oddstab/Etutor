@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST01-易] 數制轉換", "[C_ST01-易] 數制轉換\[C_ST01-易] 數制轉換.csproj", "{76D4C4EF-EF9B-4DBC-B605-BA27D1D0995B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D4C4EF-EF9B-4DBC-B605-BA27D1D0995B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D4C4EF-EF9B-4DBC-B605-BA27D1D0995B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D4C4EF-EF9B-4DBC-B605-BA27D1D0995B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D4C4EF-EF9B-4DBC-B605-BA27D1D0995B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB2E758F-3E89-4F20-A24A-24AE06E76EAF}
+	EndGlobalSection
+EndGlobal

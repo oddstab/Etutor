@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\bin\Debug\[C_OT61-易] 數數之積.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\bin\Debug\[C_OT61-易] 數數之積.exe
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\bin\Debug\[C_OT61-易] 數數之積.pdb
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\obj\Debug\[C_OT61-易] 數數之積.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\obj\Debug\[C_OT61-易] 數數之積.exe
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\obj\Debug\[C_OT61-易] 數數之積.pdb
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT61-易] 數數之積\[C_OT61-易] 數數之積\obj\Debug\[C_OT61-易] 數數之積.csprojAssemblyReference.cache

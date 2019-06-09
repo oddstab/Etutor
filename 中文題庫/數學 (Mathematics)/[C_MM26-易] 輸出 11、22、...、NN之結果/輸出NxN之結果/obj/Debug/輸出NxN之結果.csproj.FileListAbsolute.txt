@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\輸出NxN之結果\輸出NxN之結果\bin\Debug\輸出NxN之結果.exe.config
+P:\OneDrive\CSharp\輸出NxN之結果\輸出NxN之結果\bin\Debug\輸出NxN之結果.exe
+P:\OneDrive\CSharp\輸出NxN之結果\輸出NxN之結果\bin\Debug\輸出NxN之結果.pdb
+P:\OneDrive\CSharp\輸出NxN之結果\輸出NxN之結果\obj\Debug\輸出NxN之結果.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\輸出NxN之結果\輸出NxN之結果\obj\Debug\輸出NxN之結果.exe
+P:\OneDrive\CSharp\輸出NxN之結果\輸出NxN之結果\obj\Debug\輸出NxN之結果.pdb

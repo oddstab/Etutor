@@ -1,0 +1,6 @@
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD02-難] Busy day\[C_GD02-難] Busy day\bin\Debug\[C_GD02-難] Busy day.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD02-難] Busy day\[C_GD02-難] Busy day\bin\Debug\[C_GD02-難] Busy day.exe
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD02-難] Busy day\[C_GD02-難] Busy day\bin\Debug\[C_GD02-難] Busy day.pdb
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD02-難] Busy day\[C_GD02-難] Busy day\obj\Debug\[C_GD02-難] Busy day.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD02-難] Busy day\[C_GD02-難] Busy day\obj\Debug\[C_GD02-難] Busy day.exe
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD02-難] Busy day\[C_GD02-難] Busy day\obj\Debug\[C_GD02-難] Busy day.pdb

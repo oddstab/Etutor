@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\bin\Debug\[C_AR174-易] 身高排序.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\bin\Debug\[C_AR174-易] 身高排序.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\bin\Debug\[C_AR174-易] 身高排序.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\obj\Debug\[C_AR174-易] 身高排序.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\obj\Debug\[C_AR174-易] 身高排序.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\obj\Debug\[C_AR174-易] 身高排序.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR174-易] 身高排序\[C_AR174-易] 身高排序\obj\Debug\[C_AR174-易] 身高排序.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\bin\Debug\質數列表與總和.exe.config
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\bin\Debug\質數列表與總和.exe
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\bin\Debug\質數列表與總和.pdb
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\obj\Debug\質數列表與總和.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\obj\Debug\質數列表與總和.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\obj\Debug\質數列表與總和.exe
+P:\OneDrive\CSharp\質數列表與總和\質數列表與總和\obj\Debug\質數列表與總和.pdb

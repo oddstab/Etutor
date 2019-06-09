@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\bin\Debug\[C_AR207-中] 怪姓名成績排序.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\bin\Debug\[C_AR207-中] 怪姓名成績排序.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\bin\Debug\[C_AR207-中] 怪姓名成績排序.pdb
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\obj\Debug\[C_AR207-中] 怪姓名成績排序.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\obj\Debug\[C_AR207-中] 怪姓名成績排序.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\obj\Debug\[C_AR207-中] 怪姓名成績排序.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序\obj\Debug\[C_AR207-中] 怪姓名成績排序.pdb

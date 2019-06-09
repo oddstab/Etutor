@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\停車費計算\停車費計算\bin\Debug\停車費計算.exe.config
+P:\OneDrive\CSharp\停車費計算\停車費計算\bin\Debug\停車費計算.exe
+P:\OneDrive\CSharp\停車費計算\停車費計算\bin\Debug\停車費計算.pdb
+P:\OneDrive\CSharp\停車費計算\停車費計算\obj\Debug\停車費計算.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\停車費計算\停車費計算\obj\Debug\停車費計算.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\停車費計算\停車費計算\obj\Debug\停車費計算.exe
+P:\OneDrive\CSharp\停車費計算\停車費計算\obj\Debug\停車費計算.pdb

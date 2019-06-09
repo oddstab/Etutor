@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\最大公因數\最大公因數\bin\Debug\最大公因數.exe.config
+P:\OneDrive\CSharp\最大公因數\最大公因數\bin\Debug\最大公因數.exe
+P:\OneDrive\CSharp\最大公因數\最大公因數\bin\Debug\最大公因數.pdb
+P:\OneDrive\CSharp\最大公因數\最大公因數\obj\Debug\最大公因數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\最大公因數\最大公因數\obj\Debug\最大公因數.exe
+P:\OneDrive\CSharp\最大公因數\最大公因數\obj\Debug\最大公因數.pdb
+P:\OneDrive\CSharp\最大公因數\最大公因數\obj\Debug\最大公因數.csprojAssemblyReference.cache

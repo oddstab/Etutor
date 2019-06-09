@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\bin\Debug\[C_AR181-難] 魔術數字.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\bin\Debug\[C_AR181-難] 魔術數字.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\bin\Debug\[C_AR181-難] 魔術數字.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\obj\Debug\[C_AR181-難] 魔術數字.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\obj\Debug\[C_AR181-難] 魔術數字.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\obj\Debug\[C_AR181-難] 魔術數字.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR181-難] 魔術數字\[C_AR181-難] 魔術數字\obj\Debug\[C_AR181-難] 魔術數字.pdb

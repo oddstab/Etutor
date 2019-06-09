@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\bin\Debug\The Numbers.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\bin\Debug\The Numbers.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\bin\Debug\The Numbers.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\obj\Debug\The Numbers.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\obj\Debug\The Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\obj\Debug\The Numbers.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\The Numbers\The Numbers\obj\Debug\The Numbers.pdb

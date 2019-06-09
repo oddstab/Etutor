@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\bin\Debug\Online Game 選擇角色.exe.config
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\bin\Debug\Online Game 選擇角色.exe
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\bin\Debug\Online Game 選擇角色.pdb
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\obj\Debug\Online Game 選擇角色.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\obj\Debug\Online Game 選擇角色.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\obj\Debug\Online Game 選擇角色.exe
+P:\OneDrive\CSharp\Online Game 選擇角色\Online Game 選擇角色\obj\Debug\Online Game 選擇角色.pdb

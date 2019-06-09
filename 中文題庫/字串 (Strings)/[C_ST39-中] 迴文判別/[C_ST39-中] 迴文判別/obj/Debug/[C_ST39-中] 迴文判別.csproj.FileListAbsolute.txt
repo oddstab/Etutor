@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\bin\Debug\[C_ST39-中] 迴文判別.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\bin\Debug\[C_ST39-中] 迴文判別.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\bin\Debug\[C_ST39-中] 迴文判別.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\obj\Debug\[C_ST39-中] 迴文判別.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\obj\Debug\[C_ST39-中] 迴文判別.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\obj\Debug\[C_ST39-中] 迴文判別.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST39-中] 迴文判別\[C_ST39-中] 迴文判別\obj\Debug\[C_ST39-中] 迴文判別.pdb

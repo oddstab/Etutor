@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\bin\Debug\題目37. 18啦遊戲設計.exe.config
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\bin\Debug\題目37. 18啦遊戲設計.exe
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\bin\Debug\題目37. 18啦遊戲設計.pdb
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\obj\Debug\題目37. 18啦遊戲設計.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\obj\Debug\題目37. 18啦遊戲設計.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\obj\Debug\題目37. 18啦遊戲設計.exe
+P:\OneDrive\CSharp\ITSA Basic\題目37. 18啦遊戲設計\題目37. 18啦遊戲設計\obj\Debug\題目37. 18啦遊戲設計.pdb

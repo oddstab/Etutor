@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\bin\Debug\[ST48-中] The Multiplication Problem.exe.config
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\bin\Debug\[ST48-中] The Multiplication Problem.exe
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\bin\Debug\[ST48-中] The Multiplication Problem.pdb
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\obj\Debug\[ST48-中] The Multiplication Problem.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\obj\Debug\[ST48-中] The Multiplication Problem.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\obj\Debug\[ST48-中] The Multiplication Problem.exe
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST48-中] The Multiplication Problem\[ST48-中] The Multiplication Problem\obj\Debug\[ST48-中] The Multiplication Problem.pdb

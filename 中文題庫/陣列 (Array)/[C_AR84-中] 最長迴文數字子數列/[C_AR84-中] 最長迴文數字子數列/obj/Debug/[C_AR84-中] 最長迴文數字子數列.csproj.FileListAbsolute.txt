@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\bin\Debug\[C_AR84-中] 最長迴文數字子數列.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\bin\Debug\[C_AR84-中] 最長迴文數字子數列.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\bin\Debug\[C_AR84-中] 最長迴文數字子數列.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\bin\Debug\[C_AR84-中] 最長迴文數字子數列.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\bin\Debug\[C_AR84-中] 最長迴文數字子數列.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\bin\Debug\[C_AR84-中] 最長迴文數字子數列.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR84-中] 最長迴文數字子數列\[C_AR84-中] 最長迴文數字子數列\obj\Debug\[C_AR84-中] 最長迴文數字子數列.pdb

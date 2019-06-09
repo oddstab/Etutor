@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST36-易 ] 列舉迴文數\[C_ST36-易 ] 列舉迴文數\bin\Debug\[C_ST36-易 ] 列舉迴文數.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST36-易 ] 列舉迴文數\[C_ST36-易 ] 列舉迴文數\bin\Debug\[C_ST36-易 ] 列舉迴文數.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST36-易 ] 列舉迴文數\[C_ST36-易 ] 列舉迴文數\bin\Debug\[C_ST36-易 ] 列舉迴文數.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST36-易 ] 列舉迴文數\[C_ST36-易 ] 列舉迴文數\obj\Debug\[C_ST36-易 ] 列舉迴文數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST36-易 ] 列舉迴文數\[C_ST36-易 ] 列舉迴文數\obj\Debug\[C_ST36-易 ] 列舉迴文數.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST36-易 ] 列舉迴文數\[C_ST36-易 ] 列舉迴文數\obj\Debug\[C_ST36-易 ] 列舉迴文數.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\bin\Debug\[C_ST16-易] 將五位數數字分別印出.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\bin\Debug\[C_ST16-易] 將五位數數字分別印出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\bin\Debug\[C_ST16-易] 將五位數數字分別印出.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\obj\Debug\[C_ST16-易] 將五位數數字分別印出.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\obj\Debug\[C_ST16-易] 將五位數數字分別印出.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\obj\Debug\[C_ST16-易] 將五位數數字分別印出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST16-易] 將五位數數字分別印出\[C_ST16-易] 將五位數數字分別印出\obj\Debug\[C_ST16-易] 將五位數數字分別印出.pdb

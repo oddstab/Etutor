@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\bin\Debug\[C_ST30-中] 尋找並取代字.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\bin\Debug\[C_ST30-中] 尋找並取代字.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\bin\Debug\[C_ST30-中] 尋找並取代字.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\obj\Debug\[C_ST30-中] 尋找並取代字.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\obj\Debug\[C_ST30-中] 尋找並取代字.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\obj\Debug\[C_ST30-中] 尋找並取代字.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST30-中] 尋找並取代字\[C_ST30-中] 尋找並取代字\obj\Debug\[C_ST30-中] 尋找並取代字.pdb

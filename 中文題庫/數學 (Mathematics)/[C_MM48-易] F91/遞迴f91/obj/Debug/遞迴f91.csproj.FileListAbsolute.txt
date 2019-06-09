@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\bin\Debug\遞迴f91.exe.config
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\bin\Debug\遞迴f91.exe
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\bin\Debug\遞迴f91.pdb
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\obj\Debug\遞迴f91.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\obj\Debug\遞迴f91.exe
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\obj\Debug\遞迴f91.pdb
+P:\OneDrive\CSharp\遞迴f91\遞迴f91\obj\Debug\遞迴f91.csprojAssemblyReference.cache

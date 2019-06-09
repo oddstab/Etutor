@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\bin\Debug\[C_ST02-易] 迴文字串.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\bin\Debug\[C_ST02-易] 迴文字串.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\bin\Debug\[C_ST02-易] 迴文字串.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\obj\Debug\[C_ST02-易] 迴文字串.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\obj\Debug\[C_ST02-易] 迴文字串.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\obj\Debug\[C_ST02-易] 迴文字串.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST02-易] 迴文字串\[C_ST02-易] 迴文字串\obj\Debug\[C_ST02-易] 迴文字串.pdb

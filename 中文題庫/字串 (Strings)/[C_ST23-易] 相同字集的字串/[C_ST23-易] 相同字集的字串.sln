@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST23-易] 相同字集的字串", "[C_ST23-易] 相同字集的字串\[C_ST23-易] 相同字集的字串.csproj", "{B83D637C-3984-4702-A60F-E7A3E18A125F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B83D637C-3984-4702-A60F-E7A3E18A125F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83D637C-3984-4702-A60F-E7A3E18A125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83D637C-3984-4702-A60F-E7A3E18A125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83D637C-3984-4702-A60F-E7A3E18A125F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3415BA65-CE14-419A-A633-3FC18164BE53}
+	EndGlobalSection
+EndGlobal

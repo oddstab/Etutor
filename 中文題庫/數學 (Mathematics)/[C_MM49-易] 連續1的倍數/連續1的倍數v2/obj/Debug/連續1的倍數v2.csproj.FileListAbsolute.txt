@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\bin\Debug\連續1的倍數v2.exe.config
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\bin\Debug\連續1的倍數v2.exe
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\bin\Debug\連續1的倍數v2.pdb
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\obj\Debug\連續1的倍數v2.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\obj\Debug\連續1的倍數v2.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\obj\Debug\連續1的倍數v2.exe
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數v2\obj\Debug\連續1的倍數v2.pdb

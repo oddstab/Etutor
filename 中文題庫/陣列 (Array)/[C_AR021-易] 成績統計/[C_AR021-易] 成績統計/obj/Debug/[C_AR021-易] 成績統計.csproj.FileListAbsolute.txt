@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\bin\Debug\[C_AR021-易] 成績統計.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\bin\Debug\[C_AR021-易] 成績統計.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\bin\Debug\[C_AR021-易] 成績統計.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\obj\Debug\[C_AR021-易] 成績統計.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\obj\Debug\[C_AR021-易] 成績統計.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\obj\Debug\[C_AR021-易] 成績統計.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR021-易] 成績統計\[C_AR021-易] 成績統計\obj\Debug\[C_AR021-易] 成績統計.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\bin\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\bin\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\bin\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\obj\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\obj\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\obj\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IV (Arrarc IV)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\[C_AR155-易] 尋找最暢銷年齡層(固定邊界)\obj\Debug\[C_AR155-易] 尋找最暢銷年齡層(固定邊界).pdb

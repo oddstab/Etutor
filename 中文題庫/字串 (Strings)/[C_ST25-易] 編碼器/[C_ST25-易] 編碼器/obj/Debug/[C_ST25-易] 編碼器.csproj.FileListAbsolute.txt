@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\bin\Debug\[C_ST25-易] 編碼器.exe.config
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\bin\Debug\[C_ST25-易] 編碼器.exe
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\bin\Debug\[C_ST25-易] 編碼器.pdb
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\obj\Debug\[C_ST25-易] 編碼器.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\obj\Debug\[C_ST25-易] 編碼器.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\obj\Debug\[C_ST25-易] 編碼器.exe
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST25-易] 編碼器\[C_ST25-易] 編碼器\obj\Debug\[C_ST25-易] 編碼器.pdb

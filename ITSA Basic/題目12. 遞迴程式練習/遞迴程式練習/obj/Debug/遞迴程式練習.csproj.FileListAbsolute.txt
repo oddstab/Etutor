@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\bin\Debug\遞迴程式練習.exe.config
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\bin\Debug\遞迴程式練習.exe
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\bin\Debug\遞迴程式練習.pdb
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\obj\Debug\遞迴程式練習.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\obj\Debug\遞迴程式練習.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\obj\Debug\遞迴程式練習.exe
+P:\OneDrive\CSharp\遞迴程式練習\遞迴程式練習\obj\Debug\遞迴程式練習.pdb

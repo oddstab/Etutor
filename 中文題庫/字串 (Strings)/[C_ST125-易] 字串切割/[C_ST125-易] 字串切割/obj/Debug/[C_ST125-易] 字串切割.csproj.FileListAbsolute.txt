@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\bin\Debug\[C_ST125-易] 字串切割.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\bin\Debug\[C_ST125-易] 字串切割.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\bin\Debug\[C_ST125-易] 字串切割.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\obj\Debug\[C_ST125-易] 字串切割.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\obj\Debug\[C_ST125-易] 字串切割.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\obj\Debug\[C_ST125-易] 字串切割.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST125-易] 字串切割\[C_ST125-易] 字串切割\obj\Debug\[C_ST125-易] 字串切割.pdb

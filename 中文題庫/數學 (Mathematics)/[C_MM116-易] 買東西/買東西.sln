@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "買東西", "買東西\買東西.csproj", "{993A5BA0-FF6A-4509-89B1-532DD75A43BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993A5BA0-FF6A-4509-89B1-532DD75A43BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993A5BA0-FF6A-4509-89B1-532DD75A43BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993A5BA0-FF6A-4509-89B1-532DD75A43BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993A5BA0-FF6A-4509-89B1-532DD75A43BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55F421D-52B6-424A-A432-828E6EFB72D2}
+	EndGlobalSection
+EndGlobal

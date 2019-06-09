@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR153-中] 尋找股標相對高點", "[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點.csproj", "{DA124360-10C2-4E8D-84F1-845FB92A1BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA124360-10C2-4E8D-84F1-845FB92A1BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA124360-10C2-4E8D-84F1-845FB92A1BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA124360-10C2-4E8D-84F1-845FB92A1BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA124360-10C2-4E8D-84F1-845FB92A1BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43A065A4-6738-41B1-BD61-6B8948CF45F9}
+	EndGlobalSection
+EndGlobal

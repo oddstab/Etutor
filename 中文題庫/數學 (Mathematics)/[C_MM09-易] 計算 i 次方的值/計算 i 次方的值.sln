@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計算 i 次方的值", "計算 i 次方的值\計算 i 次方的值.csproj", "{DB504ADC-6222-4246-972D-72418F0281CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB504ADC-6222-4246-972D-72418F0281CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB504ADC-6222-4246-972D-72418F0281CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB504ADC-6222-4246-972D-72418F0281CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB504ADC-6222-4246-972D-72418F0281CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7591DC9B-10C4-4ED6-A10C-188DDC3D60E9}
+	EndGlobalSection
+EndGlobal

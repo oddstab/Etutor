@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\bin\Debug\[C_ST32-易] 算字數.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\bin\Debug\[C_ST32-易] 算字數.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\bin\Debug\[C_ST32-易] 算字數.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\bin\Debug\[C_ST32-易] 算字數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\bin\Debug\[C_ST32-易] 算字數.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\bin\Debug\[C_ST32-易] 算字數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST32-易] 算字數\[C_ST32-易] 算字數\obj\Debug\[C_ST32-易] 算字數.pdb

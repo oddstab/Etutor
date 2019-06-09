@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\bin\Debug\[C_AR80-中] 聖經密碼.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\bin\Debug\[C_AR80-中] 聖經密碼.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\bin\Debug\[C_AR80-中] 聖經密碼.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\obj\Debug\[C_AR80-中] 聖經密碼.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\obj\Debug\[C_AR80-中] 聖經密碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\obj\Debug\[C_AR80-中] 聖經密碼.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR80-中] 聖經密碼\[C_AR80-中] 聖經密碼\obj\Debug\[C_AR80-中] 聖經密碼.pdb

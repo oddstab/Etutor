@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\bin\Debug\[C_CH09-易] 利用振幅和頻率計算波.exe.config
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\bin\Debug\[C_CH09-易] 利用振幅和頻率計算波.exe
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\bin\Debug\[C_CH09-易] 利用振幅和頻率計算波.pdb
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\obj\Debug\[C_CH09-易] 利用振幅和頻率計算波.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\obj\Debug\[C_CH09-易] 利用振幅和頻率計算波.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\obj\Debug\[C_CH09-易] 利用振幅和頻率計算波.exe
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH09-易] 利用振幅和頻率計算波\[C_CH09-易] 利用振幅和頻率計算波\obj\Debug\[C_CH09-易] 利用振幅和頻率計算波.pdb

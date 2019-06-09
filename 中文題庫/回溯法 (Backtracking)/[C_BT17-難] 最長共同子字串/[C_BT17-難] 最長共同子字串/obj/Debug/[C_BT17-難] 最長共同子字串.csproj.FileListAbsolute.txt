@@ -1,0 +1,6 @@
+P:\OneDrive\C#\Etutor\中文題庫\回溯法 (Backtracking)\[C_BT17-難] 最長共同子字串\[C_BT17-難] 最長共同子字串\bin\Debug\[C_BT17-難] 最長共同子字串.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\回溯法 (Backtracking)\[C_BT17-難] 最長共同子字串\[C_BT17-難] 最長共同子字串\bin\Debug\[C_BT17-難] 最長共同子字串.exe
+P:\OneDrive\C#\Etutor\中文題庫\回溯法 (Backtracking)\[C_BT17-難] 最長共同子字串\[C_BT17-難] 最長共同子字串\bin\Debug\[C_BT17-難] 最長共同子字串.pdb
+P:\OneDrive\C#\Etutor\中文題庫\回溯法 (Backtracking)\[C_BT17-難] 最長共同子字串\[C_BT17-難] 最長共同子字串\obj\Debug\[C_BT17-難] 最長共同子字串.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\回溯法 (Backtracking)\[C_BT17-難] 最長共同子字串\[C_BT17-難] 最長共同子字串\obj\Debug\[C_BT17-難] 最長共同子字串.exe
+P:\OneDrive\C#\Etutor\中文題庫\回溯法 (Backtracking)\[C_BT17-難] 最長共同子字串\[C_BT17-難] 最長共同子字串\obj\Debug\[C_BT17-難] 最長共同子字串.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\我要九十九\我要九十九\bin\Debug\我要九十九.exe.config
+P:\OneDrive\CSharp\我要九十九\我要九十九\bin\Debug\我要九十九.exe
+P:\OneDrive\CSharp\我要九十九\我要九十九\bin\Debug\我要九十九.pdb
+P:\OneDrive\CSharp\我要九十九\我要九十九\obj\Debug\我要九十九.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\我要九十九\我要九十九\obj\Debug\我要九十九.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\我要九十九\我要九十九\obj\Debug\我要九十九.exe
+P:\OneDrive\CSharp\我要九十九\我要九十九\obj\Debug\我要九十九.pdb

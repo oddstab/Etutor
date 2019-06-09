@@ -1,0 +1,14 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\bin\Debug\[C_MM121-易] 排列天數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\bin\Debug\[C_MM121-易] 排列天數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\bin\Debug\[C_MM121-易] 排列天數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\bin\Debug\[C_MM121-易] 排列天數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\bin\Debug\[C_MM121-易] 排列天數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\bin\Debug\[C_MM121-易] 排列天數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM121-易] 排列天數\[C_MM121-易] 排列天數\obj\Debug\[C_MM121-易] 排列天數.pdb

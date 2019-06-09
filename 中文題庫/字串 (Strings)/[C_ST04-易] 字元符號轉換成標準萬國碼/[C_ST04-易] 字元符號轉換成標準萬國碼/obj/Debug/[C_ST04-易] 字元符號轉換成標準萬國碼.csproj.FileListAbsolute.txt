@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST04-易] 字元符號轉換成標準萬國碼\[C_ST04-易] 字元符號轉換成標準萬國碼\bin\Debug\[C_ST04-易] 字元符號轉換成標準萬國碼.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST04-易] 字元符號轉換成標準萬國碼\[C_ST04-易] 字元符號轉換成標準萬國碼\bin\Debug\[C_ST04-易] 字元符號轉換成標準萬國碼.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST04-易] 字元符號轉換成標準萬國碼\[C_ST04-易] 字元符號轉換成標準萬國碼\bin\Debug\[C_ST04-易] 字元符號轉換成標準萬國碼.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST04-易] 字元符號轉換成標準萬國碼\[C_ST04-易] 字元符號轉換成標準萬國碼\obj\Debug\[C_ST04-易] 字元符號轉換成標準萬國碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST04-易] 字元符號轉換成標準萬國碼\[C_ST04-易] 字元符號轉換成標準萬國碼\obj\Debug\[C_ST04-易] 字元符號轉換成標準萬國碼.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST04-易] 字元符號轉換成標準萬國碼\[C_ST04-易] 字元符號轉換成標準萬國碼\obj\Debug\[C_ST04-易] 字元符號轉換成標準萬國碼.pdb

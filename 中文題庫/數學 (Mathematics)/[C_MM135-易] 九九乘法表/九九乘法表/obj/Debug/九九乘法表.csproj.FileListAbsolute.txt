@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe.config
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\bin\Debug\九九乘法表.pdb
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\obj\Debug\九九乘法表.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\obj\Debug\九九乘法表.exe
+P:\OneDrive\CSharp\九九乘法表\九九乘法表\obj\Debug\九九乘法表.pdb
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe.config
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\bin\Debug\九九乘法表.exe
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\bin\Debug\九九乘法表.pdb
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\obj\Debug\九九乘法表.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\obj\Debug\九九乘法表.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\obj\Debug\九九乘法表.exe
+P:\OneDrive\CSharp\數學 III (Mathematics III)\X[C_MM135-易] 九九乘法表\九九乘法表\obj\Debug\九九乘法表.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\bin\Debug\[C_AR146-易] 最大值與最小值.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\bin\Debug\[C_AR146-易] 最大值與最小值.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\bin\Debug\[C_AR146-易] 最大值與最小值.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\obj\Debug\[C_AR146-易] 最大值與最小值.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\obj\Debug\[C_AR146-易] 最大值與最小值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\obj\Debug\[C_AR146-易] 最大值與最小值.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR146-易] 最大值與最小值\[C_AR146-易] 最大值與最小值\obj\Debug\[C_AR146-易] 最大值與最小值.pdb

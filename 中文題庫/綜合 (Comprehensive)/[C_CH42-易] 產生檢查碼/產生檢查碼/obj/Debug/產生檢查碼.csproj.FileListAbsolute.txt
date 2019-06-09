@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\bin\Debug\產生檢查碼.exe.config
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\bin\Debug\產生檢查碼.exe
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\bin\Debug\產生檢查碼.pdb
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.exe
+P:\OneDrive\CSharp\產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.pdb
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\bin\Debug\產生檢查碼.exe.config
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\bin\Debug\產生檢查碼.exe
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\bin\Debug\產生檢查碼.pdb
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.exe
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH42-易] 產生檢查碼\產生檢查碼\obj\Debug\產生檢查碼.pdb

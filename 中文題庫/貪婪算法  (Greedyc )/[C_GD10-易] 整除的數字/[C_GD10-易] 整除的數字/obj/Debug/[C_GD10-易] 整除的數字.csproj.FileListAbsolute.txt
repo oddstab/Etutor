@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\obj\Debug\[C_GD10-易] 整除的數字.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\obj\Debug\[C_GD10-易] 整除的數字.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\bin\Debug\[C_GD10-易] 整除的數字.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\bin\Debug\[C_GD10-易] 整除的數字.exe
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\bin\Debug\[C_GD10-易] 整除的數字.pdb
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\obj\Debug\[C_GD10-易] 整除的數字.exe
+P:\OneDrive\C#\Etutor\中文題庫\貪婪算法 I (Greedyc I )\[C_GD10-易] 整除的數字\[C_GD10-易] 整除的數字\obj\Debug\[C_GD10-易] 整除的數字.pdb

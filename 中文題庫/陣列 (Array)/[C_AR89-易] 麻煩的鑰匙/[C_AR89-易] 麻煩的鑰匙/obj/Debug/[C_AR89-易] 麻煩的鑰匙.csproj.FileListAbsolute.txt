@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\bin\Debug\[C_AR89-易] 麻煩的鑰匙.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\bin\Debug\[C_AR89-易] 麻煩的鑰匙.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\bin\Debug\[C_AR89-易] 麻煩的鑰匙.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\obj\Debug\[C_AR89-易] 麻煩的鑰匙.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\obj\Debug\[C_AR89-易] 麻煩的鑰匙.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\obj\Debug\[C_AR89-易] 麻煩的鑰匙.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR89-易] 麻煩的鑰匙\[C_AR89-易] 麻煩的鑰匙\obj\Debug\[C_AR89-易] 麻煩的鑰匙.pdb

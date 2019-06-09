@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\bin\Debug\[C_AR10-中] 新通話費率.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\bin\Debug\[C_AR10-中] 新通話費率.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\bin\Debug\[C_AR10-中] 新通話費率.pdb
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\obj\Debug\[C_AR10-中] 新通話費率.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\obj\Debug\[C_AR10-中] 新通話費率.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\obj\Debug\[C_AR10-中] 新通話費率.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR10-中] 新通話費率\[C_AR10-中] 新通話費率\obj\Debug\[C_AR10-中] 新通話費率.pdb

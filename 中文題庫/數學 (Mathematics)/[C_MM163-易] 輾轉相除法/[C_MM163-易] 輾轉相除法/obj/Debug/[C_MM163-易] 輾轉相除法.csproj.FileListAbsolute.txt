@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\bin\Debug\[C_MM163-易] 輾轉相除法.exe.config
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\bin\Debug\[C_MM163-易] 輾轉相除法.exe
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\bin\Debug\[C_MM163-易] 輾轉相除法.pdb
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\obj\Debug\[C_MM163-易] 輾轉相除法.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\obj\Debug\[C_MM163-易] 輾轉相除法.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\obj\Debug\[C_MM163-易] 輾轉相除法.exe
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM163-易] 輾轉相除法\[C_MM163-易] 輾轉相除法\obj\Debug\[C_MM163-易] 輾轉相除法.pdb

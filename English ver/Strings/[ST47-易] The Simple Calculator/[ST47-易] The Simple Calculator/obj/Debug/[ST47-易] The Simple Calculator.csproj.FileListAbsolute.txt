@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\bin\Debug\[ST47-易] The Simple Calculator.exe.config
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\bin\Debug\[ST47-易] The Simple Calculator.exe
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\bin\Debug\[ST47-易] The Simple Calculator.pdb
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\obj\Debug\[ST47-易] The Simple Calculator.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\obj\Debug\[ST47-易] The Simple Calculator.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\obj\Debug\[ST47-易] The Simple Calculator.exe
+P:\OneDrive\C#\Etutor\English Database\Strings\[ST47-易] The Simple Calculator\[ST47-易] The Simple Calculator\obj\Debug\[ST47-易] The Simple Calculator.pdb

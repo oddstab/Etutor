@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\bin\Debug\判斷輸入變數的形式.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\bin\Debug\判斷輸入變數的形式.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\bin\Debug\判斷輸入變數的形式.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.pdb
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\bin\Debug\判斷輸入變數的形式.exe.config
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\bin\Debug\判斷輸入變數的形式.exe
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\bin\Debug\判斷輸入變數的形式.pdb
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.exe
+P:\OneDrive\CSharp\判斷輸入變數的形式\判斷輸入變數的形式\obj\Debug\判斷輸入變數的形式.pdb

@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST27-易] 唯一的元素\[C_ST27-易] 唯一的元素\bin\Debug\[C_ST27-易] 唯一的元素.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST27-易] 唯一的元素\[C_ST27-易] 唯一的元素\bin\Debug\[C_ST27-易] 唯一的元素.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST27-易] 唯一的元素\[C_ST27-易] 唯一的元素\bin\Debug\[C_ST27-易] 唯一的元素.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST27-易] 唯一的元素\[C_ST27-易] 唯一的元素\obj\Debug\[C_ST27-易] 唯一的元素.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST27-易] 唯一的元素\[C_ST27-易] 唯一的元素\obj\Debug\[C_ST27-易] 唯一的元素.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST27-易] 唯一的元素\[C_ST27-易] 唯一的元素\obj\Debug\[C_ST27-易] 唯一的元素.pdb

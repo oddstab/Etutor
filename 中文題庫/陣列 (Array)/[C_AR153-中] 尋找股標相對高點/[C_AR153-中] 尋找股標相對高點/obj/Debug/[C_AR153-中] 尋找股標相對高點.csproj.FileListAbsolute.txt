@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\bin\Debug\[C_AR153-中] 尋找股標相對高點.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\bin\Debug\[C_AR153-中] 尋找股標相對高點.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\bin\Debug\[C_AR153-中] 尋找股標相對高點.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\obj\Debug\[C_AR153-中] 尋找股標相對高點.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\obj\Debug\[C_AR153-中] 尋找股標相對高點.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\obj\Debug\[C_AR153-中] 尋找股標相對高點.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR153-中] 尋找股標相對高點\[C_AR153-中] 尋找股標相對高點\obj\Debug\[C_AR153-中] 尋找股標相對高點.pdb

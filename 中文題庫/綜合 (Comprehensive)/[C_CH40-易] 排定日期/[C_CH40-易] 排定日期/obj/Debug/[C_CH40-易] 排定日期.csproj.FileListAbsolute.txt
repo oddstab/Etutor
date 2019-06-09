@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\bin\Debug\[C_CH40-易] 排定日期.exe.config
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\bin\Debug\[C_CH40-易] 排定日期.exe
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\bin\Debug\[C_CH40-易] 排定日期.pdb
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\obj\Debug\[C_CH40-易] 排定日期.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\obj\Debug\[C_CH40-易] 排定日期.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\obj\Debug\[C_CH40-易] 排定日期.exe
+C:\Users\User\OneDrive\C#\Etutor\中文題庫\綜合 (Comprehensive)\[C_CH40-易] 排定日期\[C_CH40-易] 排定日期\obj\Debug\[C_CH40-易] 排定日期.pdb

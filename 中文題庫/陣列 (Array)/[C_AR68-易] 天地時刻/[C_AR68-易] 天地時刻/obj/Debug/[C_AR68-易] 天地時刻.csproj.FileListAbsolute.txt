@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\bin\Debug\[C_AR68-易] 天地時刻.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\bin\Debug\[C_AR68-易] 天地時刻.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\bin\Debug\[C_AR68-易] 天地時刻.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\obj\Debug\[C_AR68-易] 天地時刻.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\obj\Debug\[C_AR68-易] 天地時刻.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\obj\Debug\[C_AR68-易] 天地時刻.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻\obj\Debug\[C_AR68-易] 天地時刻.pdb

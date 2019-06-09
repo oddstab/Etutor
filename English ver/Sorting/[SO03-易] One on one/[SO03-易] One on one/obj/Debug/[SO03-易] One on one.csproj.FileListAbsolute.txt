@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\bin\Debug\[SO03-易] One on one.exe.config
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\bin\Debug\[SO03-易] One on one.exe
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\bin\Debug\[SO03-易] One on one.pdb
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\obj\Debug\[SO03-易] One on one.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\obj\Debug\[SO03-易] One on one.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\obj\Debug\[SO03-易] One on one.exe
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO03-易] One on one\[SO03-易] One on one\obj\Debug\[SO03-易] One on one.pdb

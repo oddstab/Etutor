@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1[C_AR104-易] 各位數和排序", "ConsoleApp1[C_AR104-易] 各位數和排序\ConsoleApp1[C_AR104-易] 各位數和排序.csproj", "{9FEE02B4-1194-4DDB-B02B-955F25A3D7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FEE02B4-1194-4DDB-B02B-955F25A3D7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEE02B4-1194-4DDB-B02B-955F25A3D7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEE02B4-1194-4DDB-B02B-955F25A3D7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEE02B4-1194-4DDB-B02B-955F25A3D7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8DEEAED-A4B9-4EA4-AEA1-03F843C328F6}
+	EndGlobalSection
+EndGlobal

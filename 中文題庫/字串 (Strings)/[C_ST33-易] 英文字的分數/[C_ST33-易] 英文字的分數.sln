@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST33-易] 英文字的分數", "[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數.csproj", "{D9F69D23-A93E-4904-AD7F-22C54180B8A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F69D23-A93E-4904-AD7F-22C54180B8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F69D23-A93E-4904-AD7F-22C54180B8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F69D23-A93E-4904-AD7F-22C54180B8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F69D23-A93E-4904-AD7F-22C54180B8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C693FB3F-865B-4F23-80CF-06657576F93F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\bin\Debug\[C_ST52-中] Distance Sorting.exe.config
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\bin\Debug\[C_ST52-中] Distance Sorting.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\bin\Debug\[C_ST52-中] Distance Sorting.pdb
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\obj\Debug\[C_ST52-中] Distance Sorting.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\obj\Debug\[C_ST52-中] Distance Sorting.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\obj\Debug\[C_ST52-中] Distance Sorting.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST52-中] Distance Sorting\[C_ST52-中] Distance Sorting\obj\Debug\[C_ST52-中] Distance Sorting.pdb

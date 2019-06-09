@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\bin\Debug\[SO24-中] Rank student grade.exe.config
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\bin\Debug\[SO24-中] Rank student grade.exe
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\bin\Debug\[SO24-中] Rank student grade.pdb
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\obj\Debug\[SO24-中] Rank student grade.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\obj\Debug\[SO24-中] Rank student grade.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\obj\Debug\[SO24-中] Rank student grade.exe
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO24-中] Rank student grade\[SO24-中] Rank student grade\obj\Debug\[SO24-中] Rank student grade.pdb

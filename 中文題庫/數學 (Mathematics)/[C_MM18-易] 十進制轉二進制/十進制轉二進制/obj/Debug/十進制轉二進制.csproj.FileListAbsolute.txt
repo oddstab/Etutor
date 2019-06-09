@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\bin\Debug\十進制轉二進制.exe.config
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\bin\Debug\十進制轉二進制.exe
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\bin\Debug\十進制轉二進制.pdb
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.exe
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.pdb
+P:\OneDrive\CSharp\十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\bin\Debug\十進制轉二進制.exe.config
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\bin\Debug\十進制轉二進制.exe
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\bin\Debug\十進制轉二進制.pdb
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.exe
+P:\OneDrive\CSharp\Mathematics I\[C_MM18-易] 十進制轉二進制\十進制轉二進制\obj\Debug\十進制轉二進制.pdb

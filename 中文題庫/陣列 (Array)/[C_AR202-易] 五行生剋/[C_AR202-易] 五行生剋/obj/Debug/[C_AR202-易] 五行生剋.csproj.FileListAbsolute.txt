@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\bin\Debug\[C_AR202-易] 五行生剋.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\bin\Debug\[C_AR202-易] 五行生剋.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\bin\Debug\[C_AR202-易] 五行生剋.pdb
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\obj\Debug\[C_AR202-易] 五行生剋.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\obj\Debug\[C_AR202-易] 五行生剋.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\obj\Debug\[C_AR202-易] 五行生剋.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋\obj\Debug\[C_AR202-易] 五行生剋.pdb

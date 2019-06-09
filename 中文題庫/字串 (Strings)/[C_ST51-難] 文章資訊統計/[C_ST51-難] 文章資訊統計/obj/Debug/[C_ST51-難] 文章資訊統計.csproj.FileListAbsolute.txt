@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\bin\Debug\[C_ST51-難] 文章資訊統計.exe.config
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\bin\Debug\[C_ST51-難] 文章資訊統計.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\bin\Debug\[C_ST51-難] 文章資訊統計.pdb
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\obj\Debug\[C_ST51-難] 文章資訊統計.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\obj\Debug\[C_ST51-難] 文章資訊統計.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\obj\Debug\[C_ST51-難] 文章資訊統計.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST51-難] 文章資訊統計\[C_ST51-難] 文章資訊統計\obj\Debug\[C_ST51-難] 文章資訊統計.pdb

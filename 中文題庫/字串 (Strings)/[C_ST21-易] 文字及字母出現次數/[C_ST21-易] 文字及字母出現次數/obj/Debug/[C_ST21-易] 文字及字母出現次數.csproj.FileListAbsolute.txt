@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\bin\Debug\[C_ST21-易] 文字及字母出現次數.exe.config
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\bin\Debug\[C_ST21-易] 文字及字母出現次數.exe
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\bin\Debug\[C_ST21-易] 文字及字母出現次數.pdb
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.exe
+P:\OneDrive\CSharp\Etutor\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\bin\Debug\[C_ST21-易] 文字及字母出現次數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\bin\Debug\[C_ST21-易] 文字及字母出現次數.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\bin\Debug\[C_ST21-易] 文字及字母出現次數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST21-易] 文字及字母出現次數\[C_ST21-易] 文字及字母出現次數\obj\Debug\[C_ST21-易] 文字及字母出現次數.pdb

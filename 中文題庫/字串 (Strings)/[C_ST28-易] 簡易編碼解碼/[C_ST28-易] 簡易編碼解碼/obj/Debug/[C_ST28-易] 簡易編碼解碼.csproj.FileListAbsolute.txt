@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\bin\Debug\[C_ST28-易] 簡易編碼解碼.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\bin\Debug\[C_ST28-易] 簡易編碼解碼.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\bin\Debug\[C_ST28-易] 簡易編碼解碼.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\obj\Debug\[C_ST28-易] 簡易編碼解碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\obj\Debug\[C_ST28-易] 簡易編碼解碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\obj\Debug\[C_ST28-易] 簡易編碼解碼.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST28-易] 簡易編碼解碼\[C_ST28-易] 簡易編碼解碼\obj\Debug\[C_ST28-易] 簡易編碼解碼.pdb

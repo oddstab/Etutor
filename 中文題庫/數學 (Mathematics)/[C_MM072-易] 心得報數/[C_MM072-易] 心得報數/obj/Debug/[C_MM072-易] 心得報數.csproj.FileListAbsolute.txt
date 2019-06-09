@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\bin\Debug\[C_MM072-易] 心得報數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\bin\Debug\[C_MM072-易] 心得報數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\bin\Debug\[C_MM072-易] 心得報數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\obj\Debug\[C_MM072-易] 心得報數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\obj\Debug\[C_MM072-易] 心得報數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\obj\Debug\[C_MM072-易] 心得報數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM072-易] 心得報數\[C_MM072-易] 心得報數\obj\Debug\[C_MM072-易] 心得報數.pdb

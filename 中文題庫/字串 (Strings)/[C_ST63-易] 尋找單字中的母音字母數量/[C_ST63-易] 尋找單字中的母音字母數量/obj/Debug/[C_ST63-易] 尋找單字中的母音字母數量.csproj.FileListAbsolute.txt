@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\bin\Debug\[C_ST63-易] 尋找單字中的母音字母數量.exe.config
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\bin\Debug\[C_ST63-易] 尋找單字中的母音字母數量.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\bin\Debug\[C_ST63-易] 尋找單字中的母音字母數量.pdb
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\obj\Debug\[C_ST63-易] 尋找單字中的母音字母數量.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\obj\Debug\[C_ST63-易] 尋找單字中的母音字母數量.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\obj\Debug\[C_ST63-易] 尋找單字中的母音字母數量.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST63-易] 尋找單字中的母音字母數量\[C_ST63-易] 尋找單字中的母音字母數量\obj\Debug\[C_ST63-易] 尋找單字中的母音字母數量.pdb

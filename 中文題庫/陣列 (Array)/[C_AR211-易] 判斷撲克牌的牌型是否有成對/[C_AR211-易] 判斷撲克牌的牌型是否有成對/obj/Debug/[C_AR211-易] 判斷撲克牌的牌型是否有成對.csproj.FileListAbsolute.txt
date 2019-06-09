@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\bin\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\bin\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\bin\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.pdb
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\obj\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\obj\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\obj\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR211-易] 判斷撲克牌的牌型是否有成對\[C_AR211-易] 判斷撲克牌的牌型是否有成對\obj\Debug\[C_AR211-易] 判斷撲克牌的牌型是否有成對.pdb

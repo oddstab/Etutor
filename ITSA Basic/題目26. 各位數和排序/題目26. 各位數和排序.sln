@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "題目26. 各位數和排序", "題目26. 各位數和排序\題目26. 各位數和排序.csproj", "{EE02A385-08B7-4B2A-952C-5DA666AB8A9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE02A385-08B7-4B2A-952C-5DA666AB8A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE02A385-08B7-4B2A-952C-5DA666AB8A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE02A385-08B7-4B2A-952C-5DA666AB8A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE02A385-08B7-4B2A-952C-5DA666AB8A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65C81BEC-33AB-4567-B90B-960149DA3AF3}
+	EndGlobalSection
+EndGlobal

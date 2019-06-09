@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\bin\Debug\[C_AR171-易] 矩陣旋轉.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\bin\Debug\[C_AR171-易] 矩陣旋轉.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\bin\Debug\[C_AR171-易] 矩陣旋轉.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\obj\Debug\[C_AR171-易] 矩陣旋轉.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\obj\Debug\[C_AR171-易] 矩陣旋轉.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\obj\Debug\[C_AR171-易] 矩陣旋轉.exe
+P:\OneDrive\CSharp\Etutor\陣列 IV (Arrarc IV)\[C_AR171-易] 矩陣旋轉\[C_AR171-易] 矩陣旋轉\obj\Debug\[C_AR171-易] 矩陣旋轉.pdb

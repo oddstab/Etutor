@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\bin\Debug\[C_MM389-中 ] 進制轉換與計數.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\bin\Debug\[C_MM389-中 ] 進制轉換與計數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\bin\Debug\[C_MM389-中 ] 進制轉換與計數.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\obj\Debug\[C_MM389-中 ] 進制轉換與計數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\obj\Debug\[C_MM389-中 ] 進制轉換與計數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\obj\Debug\[C_MM389-中 ] 進制轉換與計數.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM389-中 ] 進制轉換與計數\[C_MM389-中 ] 進制轉換與計數\obj\Debug\[C_MM389-中 ] 進制轉換與計數.pdb

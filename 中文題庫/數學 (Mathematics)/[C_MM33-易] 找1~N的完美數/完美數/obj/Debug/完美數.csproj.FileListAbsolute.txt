@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\完美數\完美數\bin\Debug\完美數.exe.config
+P:\OneDrive\CSharp\完美數\完美數\bin\Debug\完美數.exe
+P:\OneDrive\CSharp\完美數\完美數\bin\Debug\完美數.pdb
+P:\OneDrive\CSharp\完美數\完美數\obj\Debug\完美數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\完美數\完美數\obj\Debug\完美數.exe
+P:\OneDrive\CSharp\完美數\完美數\obj\Debug\完美數.pdb

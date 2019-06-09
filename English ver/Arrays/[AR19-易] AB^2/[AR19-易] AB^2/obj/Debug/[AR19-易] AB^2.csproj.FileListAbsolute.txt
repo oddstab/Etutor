@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\bin\Debug\[AR19-易] AB^2.exe.config
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\bin\Debug\[AR19-易] AB^2.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\bin\Debug\[AR19-易] AB^2.pdb
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\obj\Debug\[AR19-易] AB^2.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\obj\Debug\[AR19-易] AB^2.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\obj\Debug\[AR19-易] AB^2.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR19-易] AB^2\[AR19-易] AB^2\obj\Debug\[AR19-易] AB^2.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\bin\Debug\[C_AR178-易] 猜數字之提示.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\bin\Debug\[C_AR178-易] 猜數字之提示.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\bin\Debug\[C_AR178-易] 猜數字之提示.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\obj\Debug\[C_AR178-易] 猜數字之提示.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\obj\Debug\[C_AR178-易] 猜數字之提示.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\obj\Debug\[C_AR178-易] 猜數字之提示.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR178-易] 猜數字之提示\[C_AR178-易] 猜數字之提示\obj\Debug\[C_AR178-易] 猜數字之提示.pdb

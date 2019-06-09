@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_MM40-易] 1~N之間的總和", "[C_MM40-易] 1~N之間的總和\[C_MM40-易] 1~N之間的總和.csproj", "{9D912888-4CA3-4EE9-A294-89CB4D07763F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D912888-4CA3-4EE9-A294-89CB4D07763F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D912888-4CA3-4EE9-A294-89CB4D07763F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D912888-4CA3-4EE9-A294-89CB4D07763F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D912888-4CA3-4EE9-A294-89CB4D07763F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEE567E-8BE1-4F10-AB0E-30505A072368}
+	EndGlobalSection
+EndGlobal

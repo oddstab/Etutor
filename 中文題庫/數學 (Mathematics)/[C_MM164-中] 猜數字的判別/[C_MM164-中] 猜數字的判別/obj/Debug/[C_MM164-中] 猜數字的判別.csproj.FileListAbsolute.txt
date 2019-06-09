@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\bin\Debug\[C_MM164-中] 猜數字的判別.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\bin\Debug\[C_MM164-中] 猜數字的判別.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\bin\Debug\[C_MM164-中] 猜數字的判別.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\obj\Debug\[C_MM164-中] 猜數字的判別.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\obj\Debug\[C_MM164-中] 猜數字的判別.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\obj\Debug\[C_MM164-中] 猜數字的判別.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM164-中] 猜數字的判別\[C_MM164-中] 猜數字的判別\obj\Debug\[C_MM164-中] 猜數字的判別.pdb

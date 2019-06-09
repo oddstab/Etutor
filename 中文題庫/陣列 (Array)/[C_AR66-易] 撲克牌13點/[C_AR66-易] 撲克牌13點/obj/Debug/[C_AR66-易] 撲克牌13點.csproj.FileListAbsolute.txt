@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\bin\Debug\[C_AR66-易] 撲克牌13點.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\bin\Debug\[C_AR66-易] 撲克牌13點.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\bin\Debug\[C_AR66-易] 撲克牌13點.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\obj\Debug\[C_AR66-易] 撲克牌13點.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\obj\Debug\[C_AR66-易] 撲克牌13點.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\obj\Debug\[C_AR66-易] 撲克牌13點.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR66-易] 撲克牌13點\[C_AR66-易] 撲克牌13點\obj\Debug\[C_AR66-易] 撲克牌13點.pdb

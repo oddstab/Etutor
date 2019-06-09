@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\bin\Debug\[C_AR030-中] 文字頻率分析.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\bin\Debug\[C_AR030-中] 文字頻率分析.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\bin\Debug\[C_AR030-中] 文字頻率分析.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\obj\Debug\[C_AR030-中] 文字頻率分析.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\obj\Debug\[C_AR030-中] 文字頻率分析.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\obj\Debug\[C_AR030-中] 文字頻率分析.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR030-中] 文字頻率分析\[C_AR030-中] 文字頻率分析\obj\Debug\[C_AR030-中] 文字頻率分析.pdb

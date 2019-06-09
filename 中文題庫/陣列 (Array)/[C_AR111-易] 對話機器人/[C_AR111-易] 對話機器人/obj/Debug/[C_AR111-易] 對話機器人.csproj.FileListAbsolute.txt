@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\bin\Debug\[C_AR111-易] 對話機器人.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\bin\Debug\[C_AR111-易] 對話機器人.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\bin\Debug\[C_AR111-易] 對話機器人.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\obj\Debug\[C_AR111-易] 對話機器人.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\obj\Debug\[C_AR111-易] 對話機器人.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\obj\Debug\[C_AR111-易] 對話機器人.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR111-易] 對話機器人\[C_AR111-易] 對話機器人\obj\Debug\[C_AR111-易] 對話機器人.pdb

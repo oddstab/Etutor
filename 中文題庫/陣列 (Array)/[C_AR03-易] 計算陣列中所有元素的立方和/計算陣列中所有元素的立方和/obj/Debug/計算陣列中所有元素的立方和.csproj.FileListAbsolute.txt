@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\計算陣列中所有元素的立方和\計算陣列中所有元素的立方和\bin\Debug\計算陣列中所有元素的立方和.exe.config
+P:\OneDrive\CSharp\計算陣列中所有元素的立方和\計算陣列中所有元素的立方和\bin\Debug\計算陣列中所有元素的立方和.exe
+P:\OneDrive\CSharp\計算陣列中所有元素的立方和\計算陣列中所有元素的立方和\bin\Debug\計算陣列中所有元素的立方和.pdb
+P:\OneDrive\CSharp\計算陣列中所有元素的立方和\計算陣列中所有元素的立方和\obj\Debug\計算陣列中所有元素的立方和.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算陣列中所有元素的立方和\計算陣列中所有元素的立方和\obj\Debug\計算陣列中所有元素的立方和.exe
+P:\OneDrive\CSharp\計算陣列中所有元素的立方和\計算陣列中所有元素的立方和\obj\Debug\計算陣列中所有元素的立方和.pdb

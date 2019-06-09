@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\bin\Debug\一維陣列反轉 I.exe.config
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\bin\Debug\一維陣列反轉 I.exe
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\bin\Debug\一維陣列反轉 I.pdb
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\obj\Debug\一維陣列反轉 I.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\obj\Debug\一維陣列反轉 I.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\obj\Debug\一維陣列反轉 I.exe
+P:\OneDrive\CSharp\一維陣列反轉 I\一維陣列反轉 I\obj\Debug\一維陣列反轉 I.pdb

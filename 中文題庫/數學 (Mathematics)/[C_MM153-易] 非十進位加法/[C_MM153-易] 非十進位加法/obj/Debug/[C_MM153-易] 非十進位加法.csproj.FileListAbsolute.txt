@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM153-易] 非十進位加法\[C_MM153-易] 非十進位加法\bin\Debug\[C_MM153-易] 非十進位加法.exe.config
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM153-易] 非十進位加法\[C_MM153-易] 非十進位加法\bin\Debug\[C_MM153-易] 非十進位加法.exe
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM153-易] 非十進位加法\[C_MM153-易] 非十進位加法\bin\Debug\[C_MM153-易] 非十進位加法.pdb
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM153-易] 非十進位加法\[C_MM153-易] 非十進位加法\obj\Debug\[C_MM153-易] 非十進位加法.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM153-易] 非十進位加法\[C_MM153-易] 非十進位加法\obj\Debug\[C_MM153-易] 非十進位加法.exe
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM153-易] 非十進位加法\[C_MM153-易] 非十進位加法\obj\Debug\[C_MM153-易] 非十進位加法.pdb

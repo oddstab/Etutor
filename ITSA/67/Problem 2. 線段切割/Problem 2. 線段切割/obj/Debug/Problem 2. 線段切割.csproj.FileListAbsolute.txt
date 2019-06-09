@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\bin\Debug\Problem_2.線段切割.exe.config
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\bin\Debug\Problem_2.線段切割.exe
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\bin\Debug\Problem_2.線段切割.pdb
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\obj\Debug\Problem 2. 線段切割.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\obj\Debug\Problem 2. 線段切割.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\obj\Debug\Problem_2.線段切割.exe
+P:\OneDrive\CSharp\Etutor\ITSA\67\Problem 2. 線段切割\Problem 2. 線段切割\obj\Debug\Problem_2.線段切割.pdb

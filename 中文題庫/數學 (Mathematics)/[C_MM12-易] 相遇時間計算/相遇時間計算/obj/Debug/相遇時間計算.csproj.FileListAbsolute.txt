@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\bin\Debug\相遇時間計算.exe.config
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\bin\Debug\相遇時間計算.exe
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\bin\Debug\相遇時間計算.pdb
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\obj\Debug\相遇時間計算.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\obj\Debug\相遇時間計算.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\obj\Debug\相遇時間計算.exe
+P:\OneDrive\CSharp\相遇時間計算\相遇時間計算\obj\Debug\相遇時間計算.pdb

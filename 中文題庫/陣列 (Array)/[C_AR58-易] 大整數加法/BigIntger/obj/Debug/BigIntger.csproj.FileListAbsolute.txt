@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\BigIntger\BigIntger\bin\Debug\BigIntger.exe.config
+P:\OneDrive\CSharp\BigIntger\BigIntger\bin\Debug\BigIntger.exe
+P:\OneDrive\CSharp\BigIntger\BigIntger\bin\Debug\BigIntger.pdb
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Debug\BigIntger.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Debug\BigIntger.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Debug\BigIntger.exe
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Debug\BigIntger.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\bin\Debug\BigIntger.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\bin\Debug\BigIntger.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\bin\Debug\BigIntger.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\obj\Debug\BigIntger.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\obj\Debug\BigIntger.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\obj\Debug\BigIntger.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR58-易] 大整數加法\BigIntger\obj\Debug\BigIntger.pdb

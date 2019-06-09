@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST12-易] 星號依規則輸出\[C_ST12-易] 星號依規則輸出\bin\Debug\[C_ST12-易] 星號依規則輸出.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST12-易] 星號依規則輸出\[C_ST12-易] 星號依規則輸出\bin\Debug\[C_ST12-易] 星號依規則輸出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST12-易] 星號依規則輸出\[C_ST12-易] 星號依規則輸出\bin\Debug\[C_ST12-易] 星號依規則輸出.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST12-易] 星號依規則輸出\[C_ST12-易] 星號依規則輸出\obj\Debug\[C_ST12-易] 星號依規則輸出.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST12-易] 星號依規則輸出\[C_ST12-易] 星號依規則輸出\obj\Debug\[C_ST12-易] 星號依規則輸出.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST12-易] 星號依規則輸出\[C_ST12-易] 星號依規則輸出\obj\Debug\[C_ST12-易] 星號依規則輸出.pdb

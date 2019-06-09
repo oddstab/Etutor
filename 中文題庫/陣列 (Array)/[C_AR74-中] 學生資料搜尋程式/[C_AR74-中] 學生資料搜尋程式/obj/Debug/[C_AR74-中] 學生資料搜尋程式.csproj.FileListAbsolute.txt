@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\bin\Debug\[C_AR74-中] 學生資料搜尋程式.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\bin\Debug\[C_AR74-中] 學生資料搜尋程式.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\bin\Debug\[C_AR74-中] 學生資料搜尋程式.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\obj\Debug\[C_AR74-中] 學生資料搜尋程式.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\obj\Debug\[C_AR74-中] 學生資料搜尋程式.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\obj\Debug\[C_AR74-中] 學生資料搜尋程式.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_AR74-中] 學生資料搜尋程式\[C_AR74-中] 學生資料搜尋程式\obj\Debug\[C_AR74-中] 學生資料搜尋程式.pdb

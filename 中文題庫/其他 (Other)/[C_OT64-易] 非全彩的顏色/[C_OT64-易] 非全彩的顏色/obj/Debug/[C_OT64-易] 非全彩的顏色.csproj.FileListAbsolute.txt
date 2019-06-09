@@ -1,0 +1,6 @@
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT64-易] 非全彩的顏色\[C_OT64-易] 非全彩的顏色\bin\Debug\[C_OT64-易] 非全彩的顏色.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT64-易] 非全彩的顏色\[C_OT64-易] 非全彩的顏色\bin\Debug\[C_OT64-易] 非全彩的顏色.exe
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT64-易] 非全彩的顏色\[C_OT64-易] 非全彩的顏色\bin\Debug\[C_OT64-易] 非全彩的顏色.pdb
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT64-易] 非全彩的顏色\[C_OT64-易] 非全彩的顏色\obj\Debug\[C_OT64-易] 非全彩的顏色.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT64-易] 非全彩的顏色\[C_OT64-易] 非全彩的顏色\obj\Debug\[C_OT64-易] 非全彩的顏色.exe
+P:\OneDrive\C#\Etutor\中文題庫\其他 II (Other II)\[C_OT64-易] 非全彩的顏色\[C_OT64-易] 非全彩的顏色\obj\Debug\[C_OT64-易] 非全彩的顏色.pdb

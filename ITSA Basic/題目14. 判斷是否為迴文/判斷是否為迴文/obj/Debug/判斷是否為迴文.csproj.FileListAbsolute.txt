@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\bin\Debug\判斷是否為迴文.exe.config
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\bin\Debug\判斷是否為迴文.exe
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\bin\Debug\判斷是否為迴文.pdb
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\obj\Debug\判斷是否為迴文.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\obj\Debug\判斷是否為迴文.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\obj\Debug\判斷是否為迴文.exe
+P:\OneDrive\CSharp\判斷是否為迴文\判斷是否為迴文\obj\Debug\判斷是否為迴文.pdb

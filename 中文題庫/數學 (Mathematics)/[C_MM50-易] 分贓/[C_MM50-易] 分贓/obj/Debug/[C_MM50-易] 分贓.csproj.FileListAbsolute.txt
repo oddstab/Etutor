@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\bin\Debug\[C_MM50-易] 分贓.exe.config
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\bin\Debug\[C_MM50-易] 分贓.exe
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\bin\Debug\[C_MM50-易] 分贓.pdb
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.exe
+P:\OneDrive\CSharp\Etutor\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\obj\Debug\[C_MM50-易] 分贓.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\bin\Debug\[C_MM50-易] 分贓.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\bin\Debug\[C_MM50-易] 分贓.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM50-易] 分贓\[C_MM50-易] 分贓\bin\Debug\[C_MM50-易] 分贓.pdb

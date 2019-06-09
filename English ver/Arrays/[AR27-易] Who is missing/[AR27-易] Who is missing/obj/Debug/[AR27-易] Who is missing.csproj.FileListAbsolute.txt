@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR27-易] Who is missing\[AR27-易] Who is missing\bin\Debug\[AR27-易] Who is missing.exe.config
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR27-易] Who is missing\[AR27-易] Who is missing\bin\Debug\[AR27-易] Who is missing.exe
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR27-易] Who is missing\[AR27-易] Who is missing\bin\Debug\[AR27-易] Who is missing.pdb
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR27-易] Who is missing\[AR27-易] Who is missing\obj\Debug\[AR27-易] Who is missing.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR27-易] Who is missing\[AR27-易] Who is missing\obj\Debug\[AR27-易] Who is missing.exe
+C:\Users\User\OneDrive\程式設計\C#\Etutor\English ver\Arrays\[AR27-易] Who is missing\[AR27-易] Who is missing\obj\Debug\[AR27-易] Who is missing.pdb

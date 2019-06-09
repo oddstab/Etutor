@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\Etutor\數學 II (Mathematics II)\[C_MM053-易] 近似值\[C_MM053-易] 近似值\bin\Debug\[C_MM053-易] 近似值.exe.config
+P:\OneDrive\CSharp\Etutor\數學 II (Mathematics II)\[C_MM053-易] 近似值\[C_MM053-易] 近似值\bin\Debug\[C_MM053-易] 近似值.exe
+P:\OneDrive\CSharp\Etutor\數學 II (Mathematics II)\[C_MM053-易] 近似值\[C_MM053-易] 近似值\bin\Debug\[C_MM053-易] 近似值.pdb
+P:\OneDrive\CSharp\Etutor\數學 II (Mathematics II)\[C_MM053-易] 近似值\[C_MM053-易] 近似值\obj\Debug\[C_MM053-易] 近似值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\數學 II (Mathematics II)\[C_MM053-易] 近似值\[C_MM053-易] 近似值\obj\Debug\[C_MM053-易] 近似值.exe
+P:\OneDrive\CSharp\Etutor\數學 II (Mathematics II)\[C_MM053-易] 近似值\[C_MM053-易] 近似值\obj\Debug\[C_MM053-易] 近似值.pdb

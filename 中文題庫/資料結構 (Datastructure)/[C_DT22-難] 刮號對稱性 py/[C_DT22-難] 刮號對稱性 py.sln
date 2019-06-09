@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "[C_DT22-難] 刮號對稱性 py", "[C_DT22-難] 刮號對稱性 py\[C_DT22-難] 刮號對稱性 py.pyproj", "{08DD5AAB-1BF6-409E-9593-1A33C0537CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DD5AAB-1BF6-409E-9593-1A33C0537CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DD5AAB-1BF6-409E-9593-1A33C0537CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1DEC83-7A97-4CDC-AE2F-F48C263CB046}
+	EndGlobalSection
+EndGlobal

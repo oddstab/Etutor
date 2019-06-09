@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\位元計數器\位元計數器\bin\Debug\位元計數器.exe.config
+P:\OneDrive\CSharp\位元計數器\位元計數器\bin\Debug\位元計數器.exe
+P:\OneDrive\CSharp\位元計數器\位元計數器\bin\Debug\位元計數器.pdb
+P:\OneDrive\CSharp\位元計數器\位元計數器\obj\Debug\位元計數器.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\位元計數器\位元計數器\obj\Debug\位元計數器.exe
+P:\OneDrive\CSharp\位元計數器\位元計數器\obj\Debug\位元計數器.pdb

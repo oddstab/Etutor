@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR43-易] 以遞迴函數計算冪次\[C_AR43-易] 以遞迴函數計算冪次\bin\Debug\[C_AR43-易] 以遞迴函數計算冪次.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR43-易] 以遞迴函數計算冪次\[C_AR43-易] 以遞迴函數計算冪次\bin\Debug\[C_AR43-易] 以遞迴函數計算冪次.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR43-易] 以遞迴函數計算冪次\[C_AR43-易] 以遞迴函數計算冪次\bin\Debug\[C_AR43-易] 以遞迴函數計算冪次.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR43-易] 以遞迴函數計算冪次\[C_AR43-易] 以遞迴函數計算冪次\obj\Debug\[C_AR43-易] 以遞迴函數計算冪次.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR43-易] 以遞迴函數計算冪次\[C_AR43-易] 以遞迴函數計算冪次\obj\Debug\[C_AR43-易] 以遞迴函數計算冪次.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR43-易] 以遞迴函數計算冪次\[C_AR43-易] 以遞迴函數計算冪次\obj\Debug\[C_AR43-易] 以遞迴函數計算冪次.pdb

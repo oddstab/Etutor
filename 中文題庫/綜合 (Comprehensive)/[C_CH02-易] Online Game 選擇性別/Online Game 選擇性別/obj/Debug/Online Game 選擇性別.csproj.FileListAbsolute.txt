@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\Online Game 選擇性別\Online Game 選擇性別\bin\Debug\Online Game 選擇性別.exe.config
+P:\OneDrive\CSharp\Online Game 選擇性別\Online Game 選擇性別\bin\Debug\Online Game 選擇性別.exe
+P:\OneDrive\CSharp\Online Game 選擇性別\Online Game 選擇性別\bin\Debug\Online Game 選擇性別.pdb
+P:\OneDrive\CSharp\Online Game 選擇性別\Online Game 選擇性別\obj\Debug\Online Game 選擇性別.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Online Game 選擇性別\Online Game 選擇性別\obj\Debug\Online Game 選擇性別.exe
+P:\OneDrive\CSharp\Online Game 選擇性別\Online Game 選擇性別\obj\Debug\Online Game 選擇性別.pdb

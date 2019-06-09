@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\bin\Debug\[C_MM154-易] 編輯距離.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\bin\Debug\[C_MM154-易] 編輯距離.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\bin\Debug\[C_MM154-易] 編輯距離.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\obj\Debug\[C_MM154-易] 編輯距離.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\obj\Debug\[C_MM154-易] 編輯距離.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\obj\Debug\[C_MM154-易] 編輯距離.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM154-易] 編輯距離\[C_MM154-易] 編輯距離\obj\Debug\[C_MM154-易] 編輯距離.pdb

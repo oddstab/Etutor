@@ -1,0 +1,6 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM356-易] 圖書館整理\[C_MM356-易] 圖書館整理\bin\Debug\[C_MM356-易] 圖書館整理.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM356-易] 圖書館整理\[C_MM356-易] 圖書館整理\bin\Debug\[C_MM356-易] 圖書館整理.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM356-易] 圖書館整理\[C_MM356-易] 圖書館整理\bin\Debug\[C_MM356-易] 圖書館整理.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM356-易] 圖書館整理\[C_MM356-易] 圖書館整理\obj\Debug\[C_MM356-易] 圖書館整理.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM356-易] 圖書館整理\[C_MM356-易] 圖書館整理\obj\Debug\[C_MM356-易] 圖書館整理.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM356-易] 圖書館整理\[C_MM356-易] 圖書館整理\obj\Debug\[C_MM356-易] 圖書館整理.pdb

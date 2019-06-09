@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\bin\Debug\[C_AR92-易] 和尚端湯上塔.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\bin\Debug\[C_AR92-易] 和尚端湯上塔.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\bin\Debug\[C_AR92-易] 和尚端湯上塔.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\obj\Debug\[C_AR92-易] 和尚端湯上塔.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\obj\Debug\[C_AR92-易] 和尚端湯上塔.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\obj\Debug\[C_AR92-易] 和尚端湯上塔.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR92-易] 和尚端湯上塔\[C_AR92-易] 和尚端湯上塔\obj\Debug\[C_AR92-易] 和尚端湯上塔.pdb

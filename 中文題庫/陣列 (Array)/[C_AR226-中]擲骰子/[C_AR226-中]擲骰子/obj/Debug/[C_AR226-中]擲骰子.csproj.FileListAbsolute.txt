@@ -1,0 +1,14 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\bin\Debug\[C_AR226-中]擲骰子.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\bin\Debug\[C_AR226-中]擲骰子.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\bin\Debug\[C_AR226-中]擲骰子.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 V (Arrarc V)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\bin\Debug\[C_AR226-中]擲骰子.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\bin\Debug\[C_AR226-中]擲骰子.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\bin\Debug\[C_AR226-中]擲骰子.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR226-中]擲骰子\[C_AR226-中]擲骰子\obj\Debug\[C_AR226-中]擲骰子.pdb

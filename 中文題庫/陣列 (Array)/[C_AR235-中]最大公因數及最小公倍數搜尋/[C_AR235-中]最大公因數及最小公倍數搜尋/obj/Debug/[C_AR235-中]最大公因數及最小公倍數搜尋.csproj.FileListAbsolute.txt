@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\bin\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\bin\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\bin\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.pdb
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\obj\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\obj\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\obj\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR235-中]最大公因數及最小公倍數搜尋\[C_AR235-中]最大公因數及最小公倍數搜尋\obj\Debug\[C_AR235-中]最大公因數及最小公倍數搜尋.pdb

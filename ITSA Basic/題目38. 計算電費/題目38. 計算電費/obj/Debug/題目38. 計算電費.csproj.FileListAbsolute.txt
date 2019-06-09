@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\bin\Debug\題目38.計算電費.exe.config
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\bin\Debug\題目38.計算電費.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\bin\Debug\題目38.計算電費.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\obj\Debug\題目38. 計算電費.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\obj\Debug\題目38.計算電費.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\obj\Debug\題目38.計算電費.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目38. 計算電費\題目38. 計算電費\obj\Debug\題目38. 計算電費.csprojAssemblyReference.cache

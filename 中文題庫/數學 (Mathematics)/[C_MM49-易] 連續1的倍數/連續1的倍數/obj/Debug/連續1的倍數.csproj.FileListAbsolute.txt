@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\bin\Debug\連續1的倍數.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\bin\Debug\連續1的倍數.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\bin\Debug\連續1的倍數.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\obj\Debug\連續1的倍數.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\obj\Debug\連續1的倍數.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\obj\Debug\連續1的倍數.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\連續1的倍數\連續1的倍數\obj\Debug\連續1的倍數.pdb
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\bin\Debug\連續1的倍數.exe.config
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\bin\Debug\連續1的倍數.exe
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\bin\Debug\連續1的倍數.pdb
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\obj\Debug\連續1的倍數.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\obj\Debug\連續1的倍數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\obj\Debug\連續1的倍數.exe
+P:\OneDrive\CSharp\連續1的倍數v2\連續1的倍數\obj\Debug\連續1的倍數.pdb

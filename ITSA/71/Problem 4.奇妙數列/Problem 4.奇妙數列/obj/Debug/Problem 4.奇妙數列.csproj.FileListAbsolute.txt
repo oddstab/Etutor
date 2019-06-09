@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\bin\Debug\Problem 4.奇妙數列.exe.config
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\bin\Debug\Problem 4.奇妙數列.exe
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\bin\Debug\Problem 4.奇妙數列.pdb
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\obj\Debug\Problem 4.奇妙數列.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\obj\Debug\Problem 4.奇妙數列.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\obj\Debug\Problem 4.奇妙數列.exe
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 4.奇妙數列\Problem 4.奇妙數列\obj\Debug\Problem 4.奇妙數列.pdb

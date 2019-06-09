@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR221-易]兩人抽鬼牌", "[C_AR221-易]兩人抽鬼牌\[C_AR221-易]兩人抽鬼牌.csproj", "{1F5A6D2F-4033-4145-87F3-8C60E3B93F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5A6D2F-4033-4145-87F3-8C60E3B93F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5A6D2F-4033-4145-87F3-8C60E3B93F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5A6D2F-4033-4145-87F3-8C60E3B93F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5A6D2F-4033-4145-87F3-8C60E3B93F09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F8FAE8-50F8-41C5-A8F7-2C85C98666C9}
+	EndGlobalSection
+EndGlobal

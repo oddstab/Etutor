@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字母往後移", "字母往後移\字母往後移.csproj", "{33CE41D1-D167-4582-9998-064C8F0CCF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CE41D1-D167-4582-9998-064C8F0CCF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CE41D1-D167-4582-9998-064C8F0CCF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CE41D1-D167-4582-9998-064C8F0CCF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CE41D1-D167-4582-9998-064C8F0CCF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFDEAFC3-F872-47F5-A038-AAAC75C2FC9E}
+	EndGlobalSection
+EndGlobal

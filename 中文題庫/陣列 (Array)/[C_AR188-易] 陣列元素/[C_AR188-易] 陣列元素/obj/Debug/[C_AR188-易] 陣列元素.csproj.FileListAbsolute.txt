@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR188-易] 陣列元素\[C_AR188-易] 陣列元素\bin\Debug\[C_AR188-易] 陣列元素.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR188-易] 陣列元素\[C_AR188-易] 陣列元素\bin\Debug\[C_AR188-易] 陣列元素.exe
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR188-易] 陣列元素\[C_AR188-易] 陣列元素\bin\Debug\[C_AR188-易] 陣列元素.pdb
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR188-易] 陣列元素\[C_AR188-易] 陣列元素\obj\Debug\[C_AR188-易] 陣列元素.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR188-易] 陣列元素\[C_AR188-易] 陣列元素\obj\Debug\[C_AR188-易] 陣列元素.exe
+P:\OneDrive\CSharp\Etutor\陣列 IIII (Arrayc IIII)\[C_AR188-易] 陣列元素\[C_AR188-易] 陣列元素\obj\Debug\[C_AR188-易] 陣列元素.pdb

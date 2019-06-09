@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\bin\Debug\[C_ST53-易] 矩陣數字顯示.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\bin\Debug\[C_ST53-易] 矩陣數字顯示.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\bin\Debug\[C_ST53-易] 矩陣數字顯示.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\obj\Debug\[C_ST53-易] 矩陣數字顯示.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\obj\Debug\[C_ST53-易] 矩陣數字顯示.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\obj\Debug\[C_ST53-易] 矩陣數字顯示.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST53-易] 矩陣數字顯示\[C_ST53-易] 矩陣數字顯示\obj\Debug\[C_ST53-易] 矩陣數字顯示.pdb

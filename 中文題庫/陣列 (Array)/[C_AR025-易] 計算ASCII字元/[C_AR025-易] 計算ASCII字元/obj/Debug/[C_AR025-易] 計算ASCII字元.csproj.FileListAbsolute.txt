@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\bin\Debug\[C_AR025-易] 計算ASCII字元.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\bin\Debug\[C_AR025-易] 計算ASCII字元.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\bin\Debug\[C_AR025-易] 計算ASCII字元.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\obj\Debug\[C_AR025-易] 計算ASCII字元.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\obj\Debug\[C_AR025-易] 計算ASCII字元.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\obj\Debug\[C_AR025-易] 計算ASCII字元.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\[C_AR025-易] 計算ASCII字元\obj\Debug\[C_AR025-易] 計算ASCII字元.pdb

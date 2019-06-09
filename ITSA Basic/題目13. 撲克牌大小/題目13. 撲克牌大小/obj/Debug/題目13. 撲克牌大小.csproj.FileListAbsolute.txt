@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\bin\Debug\題目13.撲克牌大小.exe.config
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\bin\Debug\題目13.撲克牌大小.exe
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\bin\Debug\題目13.撲克牌大小.pdb
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\obj\Debug\題目13. 撲克牌大小.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\obj\Debug\題目13. 撲克牌大小.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\obj\Debug\題目13.撲克牌大小.exe
+P:\OneDrive\CSharp\Etutor\ITSA Basic\題目13. 撲克牌大小\題目13. 撲克牌大小\obj\Debug\題目13.撲克牌大小.pdb

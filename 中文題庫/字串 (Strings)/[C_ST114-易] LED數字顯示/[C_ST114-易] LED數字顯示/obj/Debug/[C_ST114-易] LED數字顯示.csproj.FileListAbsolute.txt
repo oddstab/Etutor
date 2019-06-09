@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\bin\Debug\[C_ST114-易] LED數字顯示.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\bin\Debug\[C_ST114-易] LED數字顯示.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\bin\Debug\[C_ST114-易] LED數字顯示.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\obj\Debug\[C_ST114-易] LED數字顯示.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\obj\Debug\[C_ST114-易] LED數字顯示.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\obj\Debug\[C_ST114-易] LED數字顯示.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST114-易] LED數字顯示\[C_ST114-易] LED數字顯示\obj\Debug\[C_ST114-易] LED數字顯示.pdb

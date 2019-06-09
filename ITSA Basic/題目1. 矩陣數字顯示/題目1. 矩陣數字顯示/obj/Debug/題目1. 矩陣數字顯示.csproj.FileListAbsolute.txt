@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\bin\Debug\題目1.矩陣數字顯示.exe.config
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\bin\Debug\題目1.矩陣數字顯示.exe
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\bin\Debug\題目1.矩陣數字顯示.pdb
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\obj\Debug\題目1. 矩陣數字顯示.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\obj\Debug\題目1. 矩陣數字顯示.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\obj\Debug\題目1.矩陣數字顯示.exe
+P:\OneDrive\CSharp\題目1. 矩陣數字顯示\題目1. 矩陣數字顯示\obj\Debug\題目1.矩陣數字顯示.pdb

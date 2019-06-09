@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\bin\Debug\[AR54-中] NA value location.exe.config
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\bin\Debug\[AR54-中] NA value location.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\bin\Debug\[AR54-中] NA value location.pdb
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\obj\Debug\[AR54-中] NA value location.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\obj\Debug\[AR54-中] NA value location.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\obj\Debug\[AR54-中] NA value location.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays II\[AR54-中] NA value location\[AR54-中] NA value location\obj\Debug\[AR54-中] NA value location.pdb

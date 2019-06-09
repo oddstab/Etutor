@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_MM86-易] 公因數問題\[C_MM86-易] 公因數問題\bin\Debug\[C_MM86-易] 公因數問題.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_MM86-易] 公因數問題\[C_MM86-易] 公因數問題\bin\Debug\[C_MM86-易] 公因數問題.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_MM86-易] 公因數問題\[C_MM86-易] 公因數問題\bin\Debug\[C_MM86-易] 公因數問題.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_MM86-易] 公因數問題\[C_MM86-易] 公因數問題\obj\Debug\[C_MM86-易] 公因數問題.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_MM86-易] 公因數問題\[C_MM86-易] 公因數問題\obj\Debug\[C_MM86-易] 公因數問題.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_MM86-易] 公因數問題\[C_MM86-易] 公因數問題\obj\Debug\[C_MM86-易] 公因數問題.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\bin\Debug\[C_AR57-易] 刪除重複資料.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\bin\Debug\[C_AR57-易] 刪除重複資料.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\bin\Debug\[C_AR57-易] 刪除重複資料.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\obj\Debug\[C_AR57-易] 刪除重複資料.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\obj\Debug\[C_AR57-易] 刪除重複資料.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\obj\Debug\[C_AR57-易] 刪除重複資料.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR57-易] 刪除重複資料\[C_AR57-易] 刪除重複資料\obj\Debug\[C_AR57-易] 刪除重複資料.pdb

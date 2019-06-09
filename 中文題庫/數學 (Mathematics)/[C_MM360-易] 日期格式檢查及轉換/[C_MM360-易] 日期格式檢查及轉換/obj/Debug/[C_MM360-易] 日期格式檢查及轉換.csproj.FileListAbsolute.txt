@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\bin\Debug\[C_MM360-易] 日期格式檢查及轉換.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\bin\Debug\[C_MM360-易] 日期格式檢查及轉換.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\bin\Debug\[C_MM360-易] 日期格式檢查及轉換.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\obj\Debug\[C_MM360-易] 日期格式檢查及轉換.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\obj\Debug\[C_MM360-易] 日期格式檢查及轉換.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\obj\Debug\[C_MM360-易] 日期格式檢查及轉換.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 (Mathematics)\[C_MM360-易] 日期格式檢查及轉換\[C_MM360-易] 日期格式檢查及轉換\obj\Debug\[C_MM360-易] 日期格式檢查及轉換.pdb

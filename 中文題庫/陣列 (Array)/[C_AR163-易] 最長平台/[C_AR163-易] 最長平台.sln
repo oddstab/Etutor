@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR163-易] 最長平台", "[C_AR163-易] 最長平台\[C_AR163-易] 最長平台.csproj", "{CEB7C079-39D3-4997-B908-996A53E0E362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB7C079-39D3-4997-B908-996A53E0E362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB7C079-39D3-4997-B908-996A53E0E362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB7C079-39D3-4997-B908-996A53E0E362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB7C079-39D3-4997-B908-996A53E0E362}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8919B26-8328-43F5-A9D3-4FEF865BF276}
+	EndGlobalSection
+EndGlobal

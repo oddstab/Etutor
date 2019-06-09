@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\bin\Debug\[C_ST60-中] 解密碼.exe.config
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\bin\Debug\[C_ST60-中] 解密碼.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\bin\Debug\[C_ST60-中] 解密碼.pdb
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\obj\Debug\[C_ST60-中] 解密碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\obj\Debug\[C_ST60-中] 解密碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\obj\Debug\[C_ST60-中] 解密碼.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST60-中] 解密碼\[C_ST60-中] 解密碼\obj\Debug\[C_ST60-中] 解密碼.pdb

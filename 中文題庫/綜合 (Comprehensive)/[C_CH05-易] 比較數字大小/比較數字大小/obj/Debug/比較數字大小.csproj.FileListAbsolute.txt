@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\bin\Debug\比較數字大小.exe.config
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\bin\Debug\比較數字大小.exe
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\bin\Debug\比較數字大小.pdb
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\obj\Debug\比較數字大小.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\obj\Debug\比較數字大小.exe
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\obj\Debug\比較數字大小.pdb
+P:\OneDrive\CSharp\比較數字大小\比較數字大小\obj\Debug\比較數字大小.csprojAssemblyReference.cache

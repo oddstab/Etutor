@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\bin\Debug\[C_AR142-易] 陣列存多少.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\bin\Debug\[C_AR142-易] 陣列存多少.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\bin\Debug\[C_AR142-易] 陣列存多少.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\obj\Debug\[C_AR142-易] 陣列存多少.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\obj\Debug\[C_AR142-易] 陣列存多少.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\obj\Debug\[C_AR142-易] 陣列存多少.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR142-易] 陣列存多少\[C_AR142-易] 陣列存多少\obj\Debug\[C_AR142-易] 陣列存多少.pdb

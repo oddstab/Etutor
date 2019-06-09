@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\bin\Debug\[C_CH10-中] The 3n + 1 problem.exe.config
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\bin\Debug\[C_CH10-中] The 3n + 1 problem.exe
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\bin\Debug\[C_CH10-中] The 3n + 1 problem.pdb
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\obj\Debug\[C_CH10-中] The 3n + 1 problem.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\obj\Debug\[C_CH10-中] The 3n + 1 problem.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\obj\Debug\[C_CH10-中] The 3n + 1 problem.exe
+P:\OneDrive\CSharp\Etutor\綜合 (Comprehensive)\[C_CH10-中] The 3n + 1 problem\[C_CH10-中] The 3n + 1 problem\obj\Debug\[C_CH10-中] The 3n + 1 problem.pdb

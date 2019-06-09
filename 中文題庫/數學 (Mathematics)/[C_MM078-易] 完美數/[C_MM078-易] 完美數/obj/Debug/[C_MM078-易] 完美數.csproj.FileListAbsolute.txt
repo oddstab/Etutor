@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\bin\Debug\[C_MM078-易] 完美數.exe.config
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\bin\Debug\[C_MM078-易] 完美數.exe
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\bin\Debug\[C_MM078-易] 完美數.pdb
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\obj\Debug\[C_MM078-易] 完美數.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\obj\Debug\[C_MM078-易] 完美數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\obj\Debug\[C_MM078-易] 完美數.exe
+P:\OneDrive\CSharp\[C_MM078-易] 完美數\[C_MM078-易] 完美數\obj\Debug\[C_MM078-易] 完美數.pdb

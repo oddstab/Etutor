@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\bin\Debug\判斷3整數是否能構成三角形之三邊長.exe.config
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\bin\Debug\判斷3整數是否能構成三角形之三邊長.exe
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\bin\Debug\判斷3整數是否能構成三角形之三邊長.pdb
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\obj\Debug\判斷3整數是否能構成三角形之三邊長.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\obj\Debug\判斷3整數是否能構成三角形之三邊長.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\obj\Debug\判斷3整數是否能構成三角形之三邊長.exe
+P:\OneDrive\CSharp\判斷3整數是否能構成三角形之三邊長\判斷3整數是否能構成三角形之三邊長\obj\Debug\判斷3整數是否能構成三角形之三邊長.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\bin\Debug\題目35.買獎品.exe.config
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\bin\Debug\題目35.買獎品.exe
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\bin\Debug\題目35.買獎品.pdb
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\obj\Debug\題目35. 買獎品.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\obj\Debug\題目35. 買獎品.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\obj\Debug\題目35.買獎品.exe
+P:\OneDrive\CSharp\ITSA Basic\題目35. 買獎品\題目35. 買獎品\obj\Debug\題目35.買獎品.pdb

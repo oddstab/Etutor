@@ -1,0 +1,13 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\bin\Debug\[C_ST37-中] 字串比對.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\bin\Debug\[C_ST37-中] 字串比對.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\bin\Debug\[C_ST37-中] 字串比對.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\bin\Debug\[C_ST37-中] 字串比對.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\bin\Debug\[C_ST37-中] 字串比對.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\bin\Debug\[C_ST37-中] 字串比對.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST37-中] 字串比對\[C_ST37-中] 字串比對\obj\Debug\[C_ST37-中] 字串比對.pdb

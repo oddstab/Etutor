@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\bin\Debug\[C_ST109-易] 密碼計算問題.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\bin\Debug\[C_ST109-易] 密碼計算問題.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\bin\Debug\[C_ST109-易] 密碼計算問題.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\obj\Debug\[C_ST109-易] 密碼計算問題.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\obj\Debug\[C_ST109-易] 密碼計算問題.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\obj\Debug\[C_ST109-易] 密碼計算問題.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST109-易] 密碼計算問題\[C_ST109-易] 密碼計算問題\obj\Debug\[C_ST109-易] 密碼計算問題.pdb

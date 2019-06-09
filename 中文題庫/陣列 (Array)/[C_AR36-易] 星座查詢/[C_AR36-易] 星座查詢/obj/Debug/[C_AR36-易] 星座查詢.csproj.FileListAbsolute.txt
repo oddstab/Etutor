@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\bin\Debug\[C_AR36-易] 星座查詢.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\bin\Debug\[C_AR36-易] 星座查詢.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\bin\Debug\[C_AR36-易] 星座查詢.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\obj\Debug\[C_AR36-易] 星座查詢.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\obj\Debug\[C_AR36-易] 星座查詢.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\obj\Debug\[C_AR36-易] 星座查詢.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR36-易] 星座查詢\[C_AR36-易] 星座查詢\obj\Debug\[C_AR36-易] 星座查詢.pdb

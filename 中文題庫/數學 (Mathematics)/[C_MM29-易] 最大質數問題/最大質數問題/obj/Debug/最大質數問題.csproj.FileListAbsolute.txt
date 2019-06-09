@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\bin\Debug\最大質數問題.exe.config
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\bin\Debug\最大質數問題.exe
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\bin\Debug\最大質數問題.pdb
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\obj\Debug\最大質數問題.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\obj\Debug\最大質數問題.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\obj\Debug\最大質數問題.exe
+P:\OneDrive\CSharp\最大質數問題\最大質數問題\obj\Debug\最大質數問題.pdb

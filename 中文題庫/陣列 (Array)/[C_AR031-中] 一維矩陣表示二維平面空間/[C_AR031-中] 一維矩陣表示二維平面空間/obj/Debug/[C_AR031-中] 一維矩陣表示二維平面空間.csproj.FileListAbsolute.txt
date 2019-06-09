@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\bin\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\bin\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\bin\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\obj\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\obj\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\obj\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間\obj\Debug\[C_AR031-中] 一維矩陣表示二維平面空間.pdb

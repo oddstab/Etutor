@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\bin\Debug\[C_ST45-易] 名字反了.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\bin\Debug\[C_ST45-易] 名字反了.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\bin\Debug\[C_ST45-易] 名字反了.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\obj\Debug\[C_ST45-易] 名字反了.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\obj\Debug\[C_ST45-易] 名字反了.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\obj\Debug\[C_ST45-易] 名字反了.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST45-易] 名字反了\[C_ST45-易] 名字反了\obj\Debug\[C_ST45-易] 名字反了.pdb

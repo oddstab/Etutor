@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\bin\Debug\[C_DT38-中] 有限狀態機.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\bin\Debug\[C_DT38-中] 有限狀態機.exe
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\bin\Debug\[C_DT38-中] 有限狀態機.pdb
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\obj\Debug\[C_DT38-中] 有限狀態機.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\obj\Debug\[C_DT38-中] 有限狀態機.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\obj\Debug\[C_DT38-中] 有限狀態機.exe
+P:\OneDrive\C#\Etutor\中文題庫\資料結構 (Datastructure I)\[C_DT38-中] 有限狀態機\[C_DT38-中] 有限狀態機\obj\Debug\[C_DT38-中] 有限狀態機.pdb

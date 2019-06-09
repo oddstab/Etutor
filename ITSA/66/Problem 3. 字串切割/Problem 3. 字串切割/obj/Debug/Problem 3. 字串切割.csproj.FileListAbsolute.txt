@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\bin\Debug\Problem_3.字串切割.exe.config
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\bin\Debug\Problem_3.字串切割.exe
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\bin\Debug\Problem_3.字串切割.pdb
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\obj\Debug\Problem 3. 字串切割.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\obj\Debug\Problem 3. 字串切割.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\obj\Debug\Problem_3.字串切割.exe
+P:\OneDrive\C#\Etutor\ITSA\66\Problem 3. 字串切割\Problem 3. 字串切割\obj\Debug\Problem_3.字串切割.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\bin\Debug\[C_SO09-易] 字串重排.exe.config
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\bin\Debug\[C_SO09-易] 字串重排.exe
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\bin\Debug\[C_SO09-易] 字串重排.pdb
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\obj\Debug\[C_SO09-易] 字串重排.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\obj\Debug\[C_SO09-易] 字串重排.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\obj\Debug\[C_SO09-易] 字串重排.exe
+P:\OneDrive\C#\Etutor\排序 (Sorting)\[C_SO09-易] 字串重排\[C_SO09-易] 字串重排\obj\Debug\[C_SO09-易] 字串重排.pdb

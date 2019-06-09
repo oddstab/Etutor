@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\bin\Debug\[C_AR67-易] 隨意九九乘法.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\bin\Debug\[C_AR67-易] 隨意九九乘法.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\bin\Debug\[C_AR67-易] 隨意九九乘法.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\bin\Debug\[C_AR67-易] 隨意九九乘法.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\bin\Debug\[C_AR67-易] 隨意九九乘法.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\bin\Debug\[C_AR67-易] 隨意九九乘法.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR67-易] 隨意九九乘法\[C_AR67-易] 隨意九九乘法\obj\Debug\[C_AR67-易] 隨意九九乘法.pdb

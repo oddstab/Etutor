@@ -1,0 +1,7 @@
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\bin\Debug\C_MM24計算薪水.exe.config
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\bin\Debug\C_MM24計算薪水.exe
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\bin\Debug\C_MM24計算薪水.pdb
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\obj\Debug\C_MM24計算薪水.csprojAssemblyReference.cache
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\obj\Debug\C_MM24計算薪水.csproj.CoreCompileInputs.cache
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\obj\Debug\C_MM24計算薪水.exe
+P:\VSsave\C_MM24計算薪水\C_MM24計算薪水\obj\Debug\C_MM24計算薪水.pdb

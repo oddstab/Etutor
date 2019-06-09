@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\bin\Debug\[C_AR62-中] 矩陣相乘.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\bin\Debug\[C_AR62-中] 矩陣相乘.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\bin\Debug\[C_AR62-中] 矩陣相乘.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\obj\Debug\[C_AR62-中] 矩陣相乘.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\obj\Debug\[C_AR62-中] 矩陣相乘.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\obj\Debug\[C_AR62-中] 矩陣相乘.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR62-中] 矩陣相乘\[C_AR62-中] 矩陣相乘\obj\Debug\[C_AR62-中] 矩陣相乘.pdb

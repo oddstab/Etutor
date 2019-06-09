@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\bin\Debug\[C_AR77-易] 二維陣列反轉.exe.config
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\bin\Debug\[C_AR77-易] 二維陣列反轉.exe
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\bin\Debug\[C_AR77-易] 二維陣列反轉.pdb
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\obj\Debug\[C_AR77-易] 二維陣列反轉.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\obj\Debug\[C_AR77-易] 二維陣列反轉.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\obj\Debug\[C_AR77-易] 二維陣列反轉.exe
+C:\Users\Administrator\Desktop\[C_AR77-易] 二維陣列反轉\[C_AR77-易] 二維陣列反轉\obj\Debug\[C_AR77-易] 二維陣列反轉.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_GD02-難] Busy day", "[C_GD02-難] Busy day\[C_GD02-難] Busy day.csproj", "{B216DFE5-A1FC-4011-98D5-5C308DEEC741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B216DFE5-A1FC-4011-98D5-5C308DEEC741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B216DFE5-A1FC-4011-98D5-5C308DEEC741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B216DFE5-A1FC-4011-98D5-5C308DEEC741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B216DFE5-A1FC-4011-98D5-5C308DEEC741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C03366F-3D7E-4C96-8993-803073096CF4}
+	EndGlobalSection
+EndGlobal

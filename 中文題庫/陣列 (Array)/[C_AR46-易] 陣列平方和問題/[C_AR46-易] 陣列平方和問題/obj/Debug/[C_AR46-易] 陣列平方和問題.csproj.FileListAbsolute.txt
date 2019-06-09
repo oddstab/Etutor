@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\bin\Debug\[C_AR46-易] 陣列平方和問題.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\bin\Debug\[C_AR46-易] 陣列平方和問題.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\bin\Debug\[C_AR46-易] 陣列平方和問題.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\obj\Debug\[C_AR46-易] 陣列平方和問題.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\obj\Debug\[C_AR46-易] 陣列平方和問題.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\obj\Debug\[C_AR46-易] 陣列平方和問題.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR46-易] 陣列平方和問題\[C_AR46-易] 陣列平方和問題\obj\Debug\[C_AR46-易] 陣列平方和問題.pdb

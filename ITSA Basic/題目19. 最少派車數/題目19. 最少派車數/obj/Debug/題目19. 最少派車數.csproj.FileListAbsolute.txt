@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\bin\Debug\題目19.最少派車數.exe.config
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\bin\Debug\題目19.最少派車數.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\bin\Debug\題目19.最少派車數.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\obj\Debug\題目19. 最少派車數.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\obj\Debug\題目19. 最少派車數.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\obj\Debug\題目19.最少派車數.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目19. 最少派車數\題目19. 最少派車數\obj\Debug\題目19.最少派車數.pdb

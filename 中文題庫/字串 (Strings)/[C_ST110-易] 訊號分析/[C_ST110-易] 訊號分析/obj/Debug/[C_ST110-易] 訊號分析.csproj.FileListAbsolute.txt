@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\bin\Debug\[C_ST110-易] 訊號分析.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\bin\Debug\[C_ST110-易] 訊號分析.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\bin\Debug\[C_ST110-易] 訊號分析.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\obj\Debug\[C_ST110-易] 訊號分析.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\obj\Debug\[C_ST110-易] 訊號分析.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\obj\Debug\[C_ST110-易] 訊號分析.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST110-易] 訊號分析\[C_ST110-易] 訊號分析\obj\Debug\[C_ST110-易] 訊號分析.pdb

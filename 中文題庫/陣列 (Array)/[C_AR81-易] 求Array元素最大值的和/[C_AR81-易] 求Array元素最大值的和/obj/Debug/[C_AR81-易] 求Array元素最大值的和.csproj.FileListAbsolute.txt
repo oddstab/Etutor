@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR81-易] 求Array元素最大值的和\[C_AR81-易] 求Array元素最大值的和\bin\Debug\[C_AR81-易] 求Array元素最大值的和.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR81-易] 求Array元素最大值的和\[C_AR81-易] 求Array元素最大值的和\bin\Debug\[C_AR81-易] 求Array元素最大值的和.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR81-易] 求Array元素最大值的和\[C_AR81-易] 求Array元素最大值的和\bin\Debug\[C_AR81-易] 求Array元素最大值的和.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR81-易] 求Array元素最大值的和\[C_AR81-易] 求Array元素最大值的和\obj\Debug\[C_AR81-易] 求Array元素最大值的和.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR81-易] 求Array元素最大值的和\[C_AR81-易] 求Array元素最大值的和\obj\Debug\[C_AR81-易] 求Array元素最大值的和.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR81-易] 求Array元素最大值的和\[C_AR81-易] 求Array元素最大值的和\obj\Debug\[C_AR81-易] 求Array元素最大值的和.pdb

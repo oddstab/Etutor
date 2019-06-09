@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\bin\Debug\[AR04-易] Pyramids.exe.config
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\bin\Debug\[AR04-易] Pyramids.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\bin\Debug\[AR04-易] Pyramids.pdb
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\obj\Debug\[AR04-易] Pyramids.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\obj\Debug\[AR04-易] Pyramids.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\obj\Debug\[AR04-易] Pyramids.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR04-易] Pyramids\[AR04-易] Pyramids\obj\Debug\[AR04-易] Pyramids.pdb

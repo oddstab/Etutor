@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字母往後移\字母往後移\bin\Debug\字母往後移.exe.config
+P:\OneDrive\CSharp\字母往後移\字母往後移\bin\Debug\字母往後移.exe
+P:\OneDrive\CSharp\字母往後移\字母往後移\bin\Debug\字母往後移.pdb
+P:\OneDrive\CSharp\字母往後移\字母往後移\obj\Debug\字母往後移.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字母往後移\字母往後移\obj\Debug\字母往後移.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字母往後移\字母往後移\obj\Debug\字母往後移.exe
+P:\OneDrive\CSharp\字母往後移\字母往後移\obj\Debug\字母往後移.pdb

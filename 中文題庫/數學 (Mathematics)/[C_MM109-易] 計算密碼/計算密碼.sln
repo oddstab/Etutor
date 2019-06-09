@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計算密碼", "計算密碼\計算密碼.csproj", "{B88E6320-1406-47D7-9E46-FB0084565E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88E6320-1406-47D7-9E46-FB0084565E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88E6320-1406-47D7-9E46-FB0084565E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88E6320-1406-47D7-9E46-FB0084565E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88E6320-1406-47D7-9E46-FB0084565E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14748DD5-6CD5-4603-91E9-981F99AE12D4}
+	EndGlobalSection
+EndGlobal

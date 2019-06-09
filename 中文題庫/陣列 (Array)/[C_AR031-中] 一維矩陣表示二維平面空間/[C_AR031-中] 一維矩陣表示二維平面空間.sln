@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR031-中] 一維矩陣表示二維平面空間", "[C_AR031-中] 一維矩陣表示二維平面空間\[C_AR031-中] 一維矩陣表示二維平面空間.csproj", "{9AC4554D-F041-4D3D-9A16-59BA93B5BB61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC4554D-F041-4D3D-9A16-59BA93B5BB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC4554D-F041-4D3D-9A16-59BA93B5BB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC4554D-F041-4D3D-9A16-59BA93B5BB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC4554D-F041-4D3D-9A16-59BA93B5BB61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC725E78-3B05-481D-90C3-CC7D60AFFADF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+P:\VSsave\計算梯型面積\計算梯型面積\bin\Debug\計算梯型面積.exe.config
+P:\VSsave\計算梯型面積\計算梯型面積\bin\Debug\計算梯型面積.exe
+P:\VSsave\計算梯型面積\計算梯型面積\bin\Debug\計算梯型面積.pdb
+P:\VSsave\計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.csprojAssemblyReference.cache
+P:\VSsave\計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.csproj.CoreCompileInputs.cache
+P:\VSsave\計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.exe
+P:\VSsave\計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.pdb
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\bin\Debug\計算梯型面積.exe.config
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\bin\Debug\計算梯型面積.exe
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\bin\Debug\計算梯型面積.pdb
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.exe
+P:\OneDrive\CSharp\數學 (Mathematics)\[C_MM01-易] 計算梯型面積\計算梯型面積\obj\Debug\計算梯型面積.pdb

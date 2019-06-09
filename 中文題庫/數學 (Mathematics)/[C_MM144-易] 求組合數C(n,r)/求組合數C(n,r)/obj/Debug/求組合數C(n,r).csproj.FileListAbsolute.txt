@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\bin\Debug\求組合數C(n,r).exe.config
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\bin\Debug\求組合數C(n,r).exe
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\bin\Debug\求組合數C(n,r).pdb
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\obj\Debug\求組合數C(n,r).csprojAssemblyReference.cache
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\obj\Debug\求組合數C(n,r).csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\obj\Debug\求組合數C(n,r).exe
+P:\OneDrive\CSharp\求組合數C(n,r)\求組合數C(n,r)\obj\Debug\求組合數C(n,r).pdb

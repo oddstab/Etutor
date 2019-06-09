@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\ITSA Basic\題目23. 找零錢問題\題目23. 找零錢問題\bin\Debug\題目23.找零錢問題.exe.config
+P:\OneDrive\CSharp\ITSA Basic\題目23. 找零錢問題\題目23. 找零錢問題\bin\Debug\題目23.找零錢問題.exe
+P:\OneDrive\CSharp\ITSA Basic\題目23. 找零錢問題\題目23. 找零錢問題\bin\Debug\題目23.找零錢問題.pdb
+P:\OneDrive\CSharp\ITSA Basic\題目23. 找零錢問題\題目23. 找零錢問題\obj\Debug\題目23. 找零錢問題.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ITSA Basic\題目23. 找零錢問題\題目23. 找零錢問題\obj\Debug\題目23.找零錢問題.exe
+P:\OneDrive\CSharp\ITSA Basic\題目23. 找零錢問題\題目23. 找零錢問題\obj\Debug\題目23.找零錢問題.pdb

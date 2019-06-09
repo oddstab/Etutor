@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\bin\Debug\Problem_1.矩陣反轉.exe.config
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\bin\Debug\Problem_1.矩陣反轉.exe
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\bin\Debug\Problem_1.矩陣反轉.pdb
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem 1. 矩陣反轉.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem 1. 矩陣反轉.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem_1.矩陣反轉.exe
+C:\Users\User\Desktop\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem_1.矩陣反轉.pdb
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\bin\Debug\Problem_1.矩陣反轉.exe.config
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\bin\Debug\Problem_1.矩陣反轉.exe
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\bin\Debug\Problem_1.矩陣反轉.pdb
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem 1. 矩陣反轉.csprojAssemblyReference.cache
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem 1. 矩陣反轉.csproj.CoreCompileInputs.cache
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem_1.矩陣反轉.exe
+P:\OneDrive\Problem 1. 矩陣反轉\Problem 1. 矩陣反轉\obj\Debug\Problem_1.矩陣反轉.pdb

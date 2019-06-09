@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\bin\Debug\求Emirp 反向質數.exe.config
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\bin\Debug\求Emirp 反向質數.exe
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\bin\Debug\求Emirp 反向質數.pdb
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\obj\Debug\求Emirp 反向質數.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\obj\Debug\求Emirp 反向質數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\obj\Debug\求Emirp 反向質數.exe
+P:\OneDrive\CSharp\求Emirp 反向質數\求Emirp 反向質數\obj\Debug\求Emirp 反向質數.pdb

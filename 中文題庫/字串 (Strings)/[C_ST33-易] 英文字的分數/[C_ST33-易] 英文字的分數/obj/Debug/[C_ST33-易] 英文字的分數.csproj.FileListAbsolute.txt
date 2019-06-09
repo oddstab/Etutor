@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數\bin\Debug\[C_ST33-易] 英文字的分數.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數\bin\Debug\[C_ST33-易] 英文字的分數.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數\bin\Debug\[C_ST33-易] 英文字的分數.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數\obj\Debug\[C_ST33-易] 英文字的分數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數\obj\Debug\[C_ST33-易] 英文字的分數.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST33-易] 英文字的分數\[C_ST33-易] 英文字的分數\obj\Debug\[C_ST33-易] 英文字的分數.pdb

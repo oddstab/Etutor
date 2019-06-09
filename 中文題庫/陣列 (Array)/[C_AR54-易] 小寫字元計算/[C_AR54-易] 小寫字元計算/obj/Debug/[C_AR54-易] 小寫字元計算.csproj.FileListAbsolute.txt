@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR54-易] 小寫字元計算\[C_AR54-易] 小寫字元計算\bin\Debug\[C_AR54-易] 小寫字元計算.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR54-易] 小寫字元計算\[C_AR54-易] 小寫字元計算\bin\Debug\[C_AR54-易] 小寫字元計算.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR54-易] 小寫字元計算\[C_AR54-易] 小寫字元計算\bin\Debug\[C_AR54-易] 小寫字元計算.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR54-易] 小寫字元計算\[C_AR54-易] 小寫字元計算\obj\Debug\[C_AR54-易] 小寫字元計算.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR54-易] 小寫字元計算\[C_AR54-易] 小寫字元計算\obj\Debug\[C_AR54-易] 小寫字元計算.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR54-易] 小寫字元計算\[C_AR54-易] 小寫字元計算\obj\Debug\[C_AR54-易] 小寫字元計算.pdb

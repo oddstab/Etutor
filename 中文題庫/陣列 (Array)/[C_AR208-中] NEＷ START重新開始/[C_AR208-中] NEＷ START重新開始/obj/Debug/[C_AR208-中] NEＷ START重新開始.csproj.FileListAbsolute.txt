@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\bin\Debug\[C_AR208-中] NEＷ START重新開始.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\bin\Debug\[C_AR208-中] NEＷ START重新開始.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\bin\Debug\[C_AR208-中] NEＷ START重新開始.pdb
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\obj\Debug\[C_AR208-中] NEＷ START重新開始.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\obj\Debug\[C_AR208-中] NEＷ START重新開始.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\obj\Debug\[C_AR208-中] NEＷ START重新開始.exe
+P:\OneDrive\CSharp\Etutor\陣列 V (Arrarc V)\[C_AR208-中] NEＷ START重新開始\[C_AR208-中] NEＷ START重新開始\obj\Debug\[C_AR208-中] NEＷ START重新開始.pdb

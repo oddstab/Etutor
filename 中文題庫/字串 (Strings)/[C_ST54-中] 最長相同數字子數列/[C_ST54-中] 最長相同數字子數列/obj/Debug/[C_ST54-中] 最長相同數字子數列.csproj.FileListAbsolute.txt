@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\bin\Debug\[C_ST54-中] 最長相同數字子數列.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\bin\Debug\[C_ST54-中] 最長相同數字子數列.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\bin\Debug\[C_ST54-中] 最長相同數字子數列.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\obj\Debug\[C_ST54-中] 最長相同數字子數列.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\obj\Debug\[C_ST54-中] 最長相同數字子數列.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\obj\Debug\[C_ST54-中] 最長相同數字子數列.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 II(Strings II)\[C_ST54-中] 最長相同數字子數列\[C_ST54-中] 最長相同數字子數列\obj\Debug\[C_ST54-中] 最長相同數字子數列.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\bin\Debug\計算兩數和的平方值.exe.config
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\bin\Debug\計算兩數和的平方值.exe
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\bin\Debug\計算兩數和的平方值.pdb
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\obj\Debug\計算兩數和的平方值.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\obj\Debug\計算兩數和的平方值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\obj\Debug\計算兩數和的平方值.exe
+P:\OneDrive\CSharp\計算兩數和的平方值\計算兩數和的平方值\obj\Debug\計算兩數和的平方值.pdb

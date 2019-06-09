@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\bin\Debug\[Problem 5] 集點優惠.exe.config
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\bin\Debug\[Problem 5] 集點優惠.exe
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\bin\Debug\[Problem 5] 集點優惠.pdb
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\obj\Debug\[Problem 5] 集點優惠.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\obj\Debug\[Problem 5] 集點優惠.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\obj\Debug\[Problem 5] 集點優惠.exe
+P:\OneDrive\CSharp\[Problem 5] 集點優惠\[Problem 5] 集點優惠\obj\Debug\[Problem 5] 集點優惠.pdb

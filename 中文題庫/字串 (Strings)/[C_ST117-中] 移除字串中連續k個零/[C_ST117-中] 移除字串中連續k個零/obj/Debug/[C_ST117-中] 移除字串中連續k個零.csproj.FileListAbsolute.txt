@@ -1,0 +1,6 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST117-中] 移除字串中連續k個零\[C_ST117-中] 移除字串中連續k個零\bin\Debug\[C_ST117-中] 移除字串中連續k個零.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST117-中] 移除字串中連續k個零\[C_ST117-中] 移除字串中連續k個零\bin\Debug\[C_ST117-中] 移除字串中連續k個零.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST117-中] 移除字串中連續k個零\[C_ST117-中] 移除字串中連續k個零\bin\Debug\[C_ST117-中] 移除字串中連續k個零.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST117-中] 移除字串中連續k個零\[C_ST117-中] 移除字串中連續k個零\obj\Debug\[C_ST117-中] 移除字串中連續k個零.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST117-中] 移除字串中連續k個零\[C_ST117-中] 移除字串中連續k個零\obj\Debug\[C_ST117-中] 移除字串中連續k個零.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST117-中] 移除字串中連續k個零\[C_ST117-中] 移除字串中連續k個零\obj\Debug\[C_ST117-中] 移除字串中連續k個零.pdb

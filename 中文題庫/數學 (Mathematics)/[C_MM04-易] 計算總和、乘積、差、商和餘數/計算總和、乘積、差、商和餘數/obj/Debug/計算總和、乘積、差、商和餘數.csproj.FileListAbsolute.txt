@@ -1,0 +1,14 @@
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\bin\Debug\計算總和、乘積、差、商和餘數.exe.config
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\bin\Debug\計算總和、乘積、差、商和餘數.exe
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\bin\Debug\計算總和、乘積、差、商和餘數.pdb
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.csproj.CoreCompileInputs.cache
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.exe
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.pdb
+P:\VSsave\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\bin\Debug\計算總和、乘積、差、商和餘數.exe.config
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\bin\Debug\計算總和、乘積、差、商和餘數.exe
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\bin\Debug\計算總和、乘積、差、商和餘數.pdb
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.exe
+P:\OneDrive\CSharp\計算總和、乘積、差、商和餘數\計算總和、乘積、差、商和餘數\obj\Debug\計算總和、乘積、差、商和餘數.pdb

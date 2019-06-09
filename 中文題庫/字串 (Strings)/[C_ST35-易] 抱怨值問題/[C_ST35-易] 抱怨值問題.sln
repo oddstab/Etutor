@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST35-易] 抱怨值問題", "[C_ST35-易] 抱怨值問題\[C_ST35-易] 抱怨值問題.csproj", "{30D581BD-1AFE-4A9D-B059-97CFFDA0C580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D581BD-1AFE-4A9D-B059-97CFFDA0C580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D581BD-1AFE-4A9D-B059-97CFFDA0C580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D581BD-1AFE-4A9D-B059-97CFFDA0C580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D581BD-1AFE-4A9D-B059-97CFFDA0C580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09CF315-E888-4FD4-A43F-9557FF6D44C2}
+	EndGlobalSection
+EndGlobal

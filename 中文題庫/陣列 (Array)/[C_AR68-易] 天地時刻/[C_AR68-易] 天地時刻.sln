@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR68-易] 天地時刻", "[C_AR68-易] 天地時刻\[C_AR68-易] 天地時刻.csproj", "{64165C90-1AF5-4208-B11F-FBADEE629E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64165C90-1AF5-4208-B11F-FBADEE629E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64165C90-1AF5-4208-B11F-FBADEE629E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64165C90-1AF5-4208-B11F-FBADEE629E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64165C90-1AF5-4208-B11F-FBADEE629E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B995CBDD-0702-4533-BC99-F2975017715E}
+	EndGlobalSection
+EndGlobal

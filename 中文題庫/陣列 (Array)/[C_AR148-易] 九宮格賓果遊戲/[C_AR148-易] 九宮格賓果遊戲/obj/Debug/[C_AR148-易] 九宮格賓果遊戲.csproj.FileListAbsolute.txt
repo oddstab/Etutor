@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\bin\Debug\[C_AR148-易] 九宮格賓果遊戲.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\bin\Debug\[C_AR148-易] 九宮格賓果遊戲.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\bin\Debug\[C_AR148-易] 九宮格賓果遊戲.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\obj\Debug\[C_AR148-易] 九宮格賓果遊戲.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\obj\Debug\[C_AR148-易] 九宮格賓果遊戲.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\obj\Debug\[C_AR148-易] 九宮格賓果遊戲.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR148-易] 九宮格賓果遊戲\[C_AR148-易] 九宮格賓果遊戲\obj\Debug\[C_AR148-易] 九宮格賓果遊戲.pdb

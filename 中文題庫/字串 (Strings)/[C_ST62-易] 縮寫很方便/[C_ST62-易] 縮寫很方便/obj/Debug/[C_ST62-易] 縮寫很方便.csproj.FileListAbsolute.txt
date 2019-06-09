@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\bin\Debug\[C_ST62-易] 縮寫很方便.exe.config
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\bin\Debug\[C_ST62-易] 縮寫很方便.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\bin\Debug\[C_ST62-易] 縮寫很方便.pdb
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\obj\Debug\[C_ST62-易] 縮寫很方便.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\obj\Debug\[C_ST62-易] 縮寫很方便.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\obj\Debug\[C_ST62-易] 縮寫很方便.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便\obj\Debug\[C_ST62-易] 縮寫很方便.pdb

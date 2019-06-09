@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\bin\Debug\[C_AR40-易] 螺旋矩陣.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\bin\Debug\[C_AR40-易] 螺旋矩陣.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\bin\Debug\[C_AR40-易] 螺旋矩陣.pdb
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\obj\Debug\[C_AR40-易] 螺旋矩陣.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\obj\Debug\[C_AR40-易] 螺旋矩陣.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\obj\Debug\[C_AR40-易] 螺旋矩陣.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR40-易] 螺旋矩陣\[C_AR40-易] 螺旋矩陣\obj\Debug\[C_AR40-易] 螺旋矩陣.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\bin\Debug\[C_AR06-易] 字串在哪裡.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\bin\Debug\[C_AR06-易] 字串在哪裡.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\bin\Debug\[C_AR06-易] 字串在哪裡.pdb
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\obj\Debug\[C_AR06-易] 字串在哪裡.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\obj\Debug\[C_AR06-易] 字串在哪裡.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\obj\Debug\[C_AR06-易] 字串在哪裡.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR06-易] 字串在哪裡\[C_AR06-易] 字串在哪裡\obj\Debug\[C_AR06-易] 字串在哪裡.pdb

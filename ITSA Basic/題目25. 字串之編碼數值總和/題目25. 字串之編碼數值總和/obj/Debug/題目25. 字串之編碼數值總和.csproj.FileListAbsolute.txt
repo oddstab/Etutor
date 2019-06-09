@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\bin\Debug\題目25.字串之編碼數值總和.exe.config
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\bin\Debug\題目25.字串之編碼數值總和.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\bin\Debug\題目25.字串之編碼數值總和.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\obj\Debug\題目25. 字串之編碼數值總和.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\obj\Debug\題目25. 字串之編碼數值總和.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\obj\Debug\題目25.字串之編碼數值總和.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目25. 字串之編碼數值總和\題目25. 字串之編碼數值總和\obj\Debug\題目25.字串之編碼數值總和.pdb

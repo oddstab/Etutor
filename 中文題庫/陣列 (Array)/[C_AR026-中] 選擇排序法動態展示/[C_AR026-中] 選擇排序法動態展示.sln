@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR026-中] 選擇排序法動態展示", "[C_AR026-中] 選擇排序法動態展示\[C_AR026-中] 選擇排序法動態展示.csproj", "{0536AD04-D03B-4229-A397-FB1A14FAC538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0536AD04-D03B-4229-A397-FB1A14FAC538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0536AD04-D03B-4229-A397-FB1A14FAC538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0536AD04-D03B-4229-A397-FB1A14FAC538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0536AD04-D03B-4229-A397-FB1A14FAC538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52783F0E-5260-4B35-869E-FA899B2ABE6A}
+	EndGlobalSection
+EndGlobal

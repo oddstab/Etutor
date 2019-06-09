@@ -1,0 +1,7 @@
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\bin\Debug\[C_AR44-易] 迴文問題.exe.config
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\bin\Debug\[C_AR44-易] 迴文問題.exe
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\bin\Debug\[C_AR44-易] 迴文問題.pdb
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\obj\Debug\[C_AR44-易] 迴文問題.csprojResolveAssemblyReference.cache
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\obj\Debug\[C_AR44-易] 迴文問題.csproj.CoreCompileInputs.cache
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\obj\Debug\[C_AR44-易] 迴文問題.exe
+C:\Users\chen\source\repos\[C_AR44-易] 迴文問題\[C_AR44-易] 迴文問題\obj\Debug\[C_AR44-易] 迴文問題.pdb

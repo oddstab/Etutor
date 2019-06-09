@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\bin\Debug\計算1到N之間屬於5和7的倍數.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\bin\Debug\計算1到N之間屬於5和7的倍數.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\bin\Debug\計算1到N之間屬於5和7的倍數.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\obj\Debug\計算1到N之間屬於5和7的倍數.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\obj\Debug\計算1到N之間屬於5和7的倍數.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\obj\Debug\計算1到N之間屬於5和7的倍數.pdb
+P:\OneDrive\CSharp\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\bin\Debug\計算1到N之間屬於5和7的倍數.exe.config
+P:\OneDrive\CSharp\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\bin\Debug\計算1到N之間屬於5和7的倍數.exe
+P:\OneDrive\CSharp\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\bin\Debug\計算1到N之間屬於5和7的倍數.pdb
+P:\OneDrive\CSharp\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\obj\Debug\計算1到N之間屬於5和7的倍數.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\obj\Debug\計算1到N之間屬於5和7的倍數.exe
+P:\OneDrive\CSharp\計算1到N之間屬於5和7的倍數\計算1到N之間屬於5和7的倍數\obj\Debug\計算1到N之間屬於5和7的倍數.pdb

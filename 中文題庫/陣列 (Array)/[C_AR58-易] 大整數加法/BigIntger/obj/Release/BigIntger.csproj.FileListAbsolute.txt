@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\BigIntger\BigIntger\bin\Release\BigIntger.exe.config
+P:\OneDrive\CSharp\BigIntger\BigIntger\bin\Release\BigIntger.exe
+P:\OneDrive\CSharp\BigIntger\BigIntger\bin\Release\BigIntger.pdb
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Release\BigIntger.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Release\BigIntger.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Release\BigIntger.exe
+P:\OneDrive\CSharp\BigIntger\BigIntger\obj\Release\BigIntger.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\進位轉換\進位轉換\bin\Debug\進位轉換.exe.config
+P:\OneDrive\CSharp\進位轉換\進位轉換\bin\Debug\進位轉換.exe
+P:\OneDrive\CSharp\進位轉換\進位轉換\bin\Debug\進位轉換.pdb
+P:\OneDrive\CSharp\進位轉換\進位轉換\obj\Debug\進位轉換.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\進位轉換\進位轉換\obj\Debug\進位轉換.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\進位轉換\進位轉換\obj\Debug\進位轉換.exe
+P:\OneDrive\CSharp\進位轉換\進位轉換\obj\Debug\進位轉換.pdb

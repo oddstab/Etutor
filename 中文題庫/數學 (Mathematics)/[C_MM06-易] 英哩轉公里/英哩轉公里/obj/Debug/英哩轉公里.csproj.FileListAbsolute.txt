@@ -1,0 +1,7 @@
+P:\VSsave\英哩轉公里\英哩轉公里\bin\Debug\英哩轉公里.exe.config
+P:\VSsave\英哩轉公里\英哩轉公里\bin\Debug\英哩轉公里.exe
+P:\VSsave\英哩轉公里\英哩轉公里\bin\Debug\英哩轉公里.pdb
+P:\VSsave\英哩轉公里\英哩轉公里\obj\Debug\英哩轉公里.csprojAssemblyReference.cache
+P:\VSsave\英哩轉公里\英哩轉公里\obj\Debug\英哩轉公里.csproj.CoreCompileInputs.cache
+P:\VSsave\英哩轉公里\英哩轉公里\obj\Debug\英哩轉公里.exe
+P:\VSsave\英哩轉公里\英哩轉公里\obj\Debug\英哩轉公里.pdb

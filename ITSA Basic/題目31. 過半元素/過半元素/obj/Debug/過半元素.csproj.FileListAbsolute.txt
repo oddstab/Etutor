@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\過半元素\過半元素\bin\Debug\過半元素.exe.config
+P:\OneDrive\CSharp\過半元素\過半元素\bin\Debug\過半元素.exe
+P:\OneDrive\CSharp\過半元素\過半元素\bin\Debug\過半元素.pdb
+P:\OneDrive\CSharp\過半元素\過半元素\obj\Debug\過半元素.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\過半元素\過半元素\obj\Debug\過半元素.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\過半元素\過半元素\obj\Debug\過半元素.exe
+P:\OneDrive\CSharp\過半元素\過半元素\obj\Debug\過半元素.pdb

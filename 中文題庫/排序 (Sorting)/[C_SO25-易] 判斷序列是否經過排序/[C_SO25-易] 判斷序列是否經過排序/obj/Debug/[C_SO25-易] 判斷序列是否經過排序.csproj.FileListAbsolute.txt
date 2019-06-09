@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\bin\Debug\[C_SO25-易] 判斷序列是否經過排序.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\bin\Debug\[C_SO25-易] 判斷序列是否經過排序.exe
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\bin\Debug\[C_SO25-易] 判斷序列是否經過排序.pdb
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\obj\Debug\[C_SO25-易] 判斷序列是否經過排序.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\obj\Debug\[C_SO25-易] 判斷序列是否經過排序.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\obj\Debug\[C_SO25-易] 判斷序列是否經過排序.exe
+P:\OneDrive\C#\Etutor\中文題庫\排序 (Sorting)\[C_SO25-易] 判斷序列是否經過排序\[C_SO25-易] 判斷序列是否經過排序\obj\Debug\[C_SO25-易] 判斷序列是否經過排序.pdb

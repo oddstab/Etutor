@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR37-易] 進制轉換", "[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換.csproj", "{9821169B-DF42-4671-94FC-43DC605DF167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9821169B-DF42-4671-94FC-43DC605DF167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9821169B-DF42-4671-94FC-43DC605DF167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9821169B-DF42-4671-94FC-43DC605DF167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9821169B-DF42-4671-94FC-43DC605DF167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADC4FF2B-3F12-43AE-8722-31DEA82F7768}
+	EndGlobalSection
+EndGlobal

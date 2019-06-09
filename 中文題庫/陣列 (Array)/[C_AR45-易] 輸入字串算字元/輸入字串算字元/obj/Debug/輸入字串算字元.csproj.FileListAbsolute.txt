@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\bin\Debug\輸入字串算字元.exe.config
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\bin\Debug\輸入字串算字元.exe
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\bin\Debug\輸入字串算字元.pdb
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\obj\Debug\輸入字串算字元.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\obj\Debug\輸入字串算字元.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\obj\Debug\輸入字串算字元.exe
+P:\OneDrive\CSharp\輸入字串算字元\輸入字串算字元\obj\Debug\輸入字串算字元.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\bin\Debug\V2.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\bin\Debug\V2.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\bin\Debug\V2.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\obj\Debug\V2.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\obj\Debug\V2.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\obj\Debug\V2.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR025-易] 計算ASCII字元\V2\obj\Debug\V2.csprojAssemblyReference.cache

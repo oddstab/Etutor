@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\bin\Debug\題目24.計算複利.exe.config
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\bin\Debug\題目24.計算複利.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\bin\Debug\題目24.計算複利.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\obj\Debug\題目24. 計算複利.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\obj\Debug\題目24. 計算複利.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\obj\Debug\題目24.計算複利.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目24. 計算複利\題目24. 計算複利\obj\Debug\題目24.計算複利.pdb

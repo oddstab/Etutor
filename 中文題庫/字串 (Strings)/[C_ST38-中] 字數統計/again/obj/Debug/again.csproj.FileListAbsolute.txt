@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\bin\Debug\again.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\bin\Debug\again.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\bin\Debug\again.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\obj\Debug\again.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\obj\Debug\again.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\obj\Debug\again.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST38-中] 字數統計\again\obj\Debug\again.pdb

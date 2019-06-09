@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\bin\Debug\[C_MM268-易] 18啦遊戲設計.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\bin\Debug\[C_MM268-易] 18啦遊戲設計.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\bin\Debug\[C_MM268-易] 18啦遊戲設計.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\obj\Debug\[C_MM268-易] 18啦遊戲設計.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\obj\Debug\[C_MM268-易] 18啦遊戲設計.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\obj\Debug\[C_MM268-易] 18啦遊戲設計.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 VI (Mathematics VI)\[C_MM268-易] 18啦遊戲設計\[C_MM268-易] 18啦遊戲設計\obj\Debug\[C_MM268-易] 18啦遊戲設計.pdb

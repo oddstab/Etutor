@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\bin\Debug\[C_AR13-易] 平面魔方.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\bin\Debug\[C_AR13-易] 平面魔方.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\bin\Debug\[C_AR13-易] 平面魔方.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\obj\Debug\[C_AR13-易] 平面魔方.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\obj\Debug\[C_AR13-易] 平面魔方.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\obj\Debug\[C_AR13-易] 平面魔方.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR13-易] 平面魔方\[C_AR13-易] 平面魔方\obj\Debug\[C_AR13-易] 平面魔方.pdb

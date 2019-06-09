@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR207-中] 怪姓名成績排序", "[C_AR207-中] 怪姓名成績排序\[C_AR207-中] 怪姓名成績排序.csproj", "{1FC610AC-19BC-45C4-8762-CFB1E1F723F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FC610AC-19BC-45C4-8762-CFB1E1F723F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC610AC-19BC-45C4-8762-CFB1E1F723F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC610AC-19BC-45C4-8762-CFB1E1F723F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC610AC-19BC-45C4-8762-CFB1E1F723F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E625237F-79CF-4AC1-9F7C-39EB70D59B2E}
+	EndGlobalSection
+EndGlobal

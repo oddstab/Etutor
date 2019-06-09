@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\bin\Debug\Problem_4.文字接龍.exe.config
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\bin\Debug\Problem_4.文字接龍.exe
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\bin\Debug\Problem_4.文字接龍.pdb
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\obj\Debug\Problem 4. 文字接龍.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\obj\Debug\Problem 4. 文字接龍.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\obj\Debug\Problem_4.文字接龍.exe
+P:\OneDrive\CSharp\Problem 4. 文字接龍\Problem 4. 文字接龍\obj\Debug\Problem_4.文字接龍.pdb

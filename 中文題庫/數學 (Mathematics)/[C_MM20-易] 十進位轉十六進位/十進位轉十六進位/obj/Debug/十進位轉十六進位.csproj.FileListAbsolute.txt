@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\bin\Debug\十進位轉十六進位.exe.config
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\bin\Debug\十進位轉十六進位.exe
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\bin\Debug\十進位轉十六進位.pdb
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\obj\Debug\十進位轉十六進位.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\obj\Debug\十進位轉十六進位.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\obj\Debug\十進位轉十六進位.exe
+P:\OneDrive\CSharp\十進位轉十六進位\十進位轉十六進位\obj\Debug\十進位轉十六進位.pdb

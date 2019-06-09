@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\bin\Debug\[C_MM87-易] 最小公倍數問題.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\bin\Debug\[C_MM87-易] 最小公倍數問題.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\bin\Debug\[C_MM87-易] 最小公倍數問題.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\obj\Debug\[C_MM87-易] 最小公倍數問題.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\obj\Debug\[C_MM87-易] 最小公倍數問題.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\obj\Debug\[C_MM87-易] 最小公倍數問題.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 II (Mathematics II)\[C_MM87-易] 最小公倍數問題\[C_MM87-易] 最小公倍數問題\obj\Debug\[C_MM87-易] 最小公倍數問題.pdb

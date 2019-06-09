@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\bin\Debug\題目18.QWERTY.exe.config
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\bin\Debug\題目18.QWERTY.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\bin\Debug\題目18.QWERTY.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\obj\Debug\題目18. QWERTY.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\obj\Debug\題目18. QWERTY.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\obj\Debug\題目18.QWERTY.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目18. QWERTY\題目18. QWERTY\obj\Debug\題目18.QWERTY.pdb

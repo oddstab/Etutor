@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\bin\Debug\[C_AR09-易] 兩數差值.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\bin\Debug\[C_AR09-易] 兩數差值.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\bin\Debug\[C_AR09-易] 兩數差值.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\obj\Debug\[C_AR09-易] 兩數差值.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\obj\Debug\[C_AR09-易] 兩數差值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\obj\Debug\[C_AR09-易] 兩數差值.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR09-易] 兩數差值\[C_AR09-易] 兩數差值\obj\Debug\[C_AR09-易] 兩數差值.pdb

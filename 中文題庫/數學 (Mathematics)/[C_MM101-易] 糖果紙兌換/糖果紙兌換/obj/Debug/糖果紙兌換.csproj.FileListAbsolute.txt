@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\obj\Debug\糖果紙兌換.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\bin\Debug\糖果紙兌換.exe.config
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\bin\Debug\糖果紙兌換.exe
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\bin\Debug\糖果紙兌換.pdb
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\obj\Debug\糖果紙兌換.exe
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\obj\Debug\糖果紙兌換.pdb
+P:\OneDrive\CSharp\糖果紙兌換\糖果紙兌換\obj\Debug\糖果紙兌換.csprojAssemblyReference.cache

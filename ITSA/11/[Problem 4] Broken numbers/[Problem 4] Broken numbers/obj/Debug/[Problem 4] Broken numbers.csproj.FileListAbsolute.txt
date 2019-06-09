@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\bin\Debug\[Problem 4] Broken numbers.exe.config
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\bin\Debug\[Problem 4] Broken numbers.exe
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\bin\Debug\[Problem 4] Broken numbers.pdb
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\obj\Debug\[Problem 4] Broken numbers.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\obj\Debug\[Problem 4] Broken numbers.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\obj\Debug\[Problem 4] Broken numbers.exe
+P:\OneDrive\CSharp\ITSA Basic\11th\[Problem 4] Broken numbers\[Problem 4] Broken numbers\obj\Debug\[Problem 4] Broken numbers.pdb

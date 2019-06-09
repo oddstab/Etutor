@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_ST62-易] 縮寫很方便", "[C_ST62-易] 縮寫很方便\[C_ST62-易] 縮寫很方便.csproj", "{32A8EF1F-9426-4817-98FE-ED039BACA33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A8EF1F-9426-4817-98FE-ED039BACA33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A8EF1F-9426-4817-98FE-ED039BACA33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A8EF1F-9426-4817-98FE-ED039BACA33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A8EF1F-9426-4817-98FE-ED039BACA33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A11D478-B98A-4D27-8225-DA4AD16CEEE5}
+	EndGlobalSection
+EndGlobal

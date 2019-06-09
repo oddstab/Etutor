@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\bin\Debug\[C_ST69-易] Run Command.exe.config
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\bin\Debug\[C_ST69-易] Run Command.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\bin\Debug\[C_ST69-易] Run Command.pdb
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\obj\Debug\[C_ST69-易] Run Command.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\obj\Debug\[C_ST69-易] Run Command.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\obj\Debug\[C_ST69-易] Run Command.exe
+P:\OneDrive\CSharp\Etutor\字串 II(Strings II)\[C_ST69-易] Run Command\[C_ST69-易] Run Command\obj\Debug\[C_ST69-易] Run Command.pdb

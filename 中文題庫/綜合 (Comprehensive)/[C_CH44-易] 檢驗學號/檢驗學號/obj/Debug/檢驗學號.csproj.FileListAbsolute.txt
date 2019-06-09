@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\bin\Debug\檢驗學號.exe.config
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\bin\Debug\檢驗學號.exe
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\bin\Debug\檢驗學號.pdb
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\obj\Debug\檢驗學號.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\obj\Debug\檢驗學號.exe
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\obj\Debug\檢驗學號.pdb
+P:\OneDrive\CSharp\檢驗學號\檢驗學號\obj\Debug\檢驗學號.csprojAssemblyReference.cache

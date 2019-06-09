@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR023-易] 字根與子字串\[C_AR023-易] 字根與子字串\bin\Debug\[C_AR023-易] 字根與子字串.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR023-易] 字根與子字串\[C_AR023-易] 字根與子字串\bin\Debug\[C_AR023-易] 字根與子字串.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR023-易] 字根與子字串\[C_AR023-易] 字根與子字串\bin\Debug\[C_AR023-易] 字根與子字串.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR023-易] 字根與子字串\[C_AR023-易] 字根與子字串\obj\Debug\[C_AR023-易] 字根與子字串.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR023-易] 字根與子字串\[C_AR023-易] 字根與子字串\obj\Debug\[C_AR023-易] 字根與子字串.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR023-易] 字根與子字串\[C_AR023-易] 字根與子字串\obj\Debug\[C_AR023-易] 字根與子字串.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\買東西\買東西\bin\Debug\買東西.exe.config
+P:\OneDrive\CSharp\買東西\買東西\bin\Debug\買東西.exe
+P:\OneDrive\CSharp\買東西\買東西\bin\Debug\買東西.pdb
+P:\OneDrive\CSharp\買東西\買東西\obj\Debug\買東西.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\買東西\買東西\obj\Debug\買東西.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\買東西\買東西\obj\Debug\買東西.exe
+P:\OneDrive\CSharp\買東西\買東西\obj\Debug\買東西.pdb

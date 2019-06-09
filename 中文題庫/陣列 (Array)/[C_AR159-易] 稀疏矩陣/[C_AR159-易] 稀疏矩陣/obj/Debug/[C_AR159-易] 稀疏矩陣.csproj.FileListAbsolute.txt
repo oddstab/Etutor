@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\bin\Debug\[C_AR159-易] 稀疏矩陣.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\bin\Debug\[C_AR159-易] 稀疏矩陣.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\bin\Debug\[C_AR159-易] 稀疏矩陣.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\obj\Debug\[C_AR159-易] 稀疏矩陣.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\obj\Debug\[C_AR159-易] 稀疏矩陣.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\obj\Debug\[C_AR159-易] 稀疏矩陣.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR159-易] 稀疏矩陣\[C_AR159-易] 稀疏矩陣\obj\Debug\[C_AR159-易] 稀疏矩陣.pdb

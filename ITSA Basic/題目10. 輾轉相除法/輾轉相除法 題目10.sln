@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "輾轉相除法 題目10", "輾轉相除法 題目10\輾轉相除法 題目10.csproj", "{30A15783-9B32-4A75-B5C1-AD36F8E2B70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A15783-9B32-4A75-B5C1-AD36F8E2B70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A15783-9B32-4A75-B5C1-AD36F8E2B70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A15783-9B32-4A75-B5C1-AD36F8E2B70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A15783-9B32-4A75-B5C1-AD36F8E2B70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1509F0-E461-47CE-B645-FBF9768E2C1C}
+	EndGlobalSection
+EndGlobal

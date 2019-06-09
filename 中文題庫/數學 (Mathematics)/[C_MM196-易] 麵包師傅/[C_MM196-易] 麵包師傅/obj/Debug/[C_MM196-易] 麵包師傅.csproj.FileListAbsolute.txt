@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\bin\Debug\[C_MM196-易] 麵包師傅.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\bin\Debug\[C_MM196-易] 麵包師傅.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\bin\Debug\[C_MM196-易] 麵包師傅.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\obj\Debug\[C_MM196-易] 麵包師傅.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\obj\Debug\[C_MM196-易] 麵包師傅.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\obj\Debug\[C_MM196-易] 麵包師傅.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM196-易] 麵包師傅\[C_MM196-易] 麵包師傅\obj\Debug\[C_MM196-易] 麵包師傅.pdb

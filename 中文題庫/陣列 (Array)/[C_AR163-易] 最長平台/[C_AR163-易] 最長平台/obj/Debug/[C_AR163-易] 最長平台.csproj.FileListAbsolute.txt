@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\bin\Debug\[C_AR163-易] 最長平台.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\bin\Debug\[C_AR163-易] 最長平台.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\bin\Debug\[C_AR163-易] 最長平台.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\obj\Debug\[C_AR163-易] 最長平台.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\obj\Debug\[C_AR163-易] 最長平台.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\obj\Debug\[C_AR163-易] 最長平台.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR163-易] 最長平台\[C_AR163-易] 最長平台\obj\Debug\[C_AR163-易] 最長平台.pdb

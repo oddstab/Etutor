@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\bin\Debug\題目22.圈圈叉叉.exe.config
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\bin\Debug\題目22.圈圈叉叉.exe
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\bin\Debug\題目22.圈圈叉叉.pdb
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\obj\Debug\題目22. 圈圈叉叉.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\obj\Debug\題目22. 圈圈叉叉.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\obj\Debug\題目22.圈圈叉叉.exe
+P:\OneDrive\CSharp\ITSA Basic\題目22. 圈圈叉叉\題目22. 圈圈叉叉\obj\Debug\題目22.圈圈叉叉.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\bin\Debug\標準體重計算.exe.config
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\bin\Debug\標準體重計算.exe
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\bin\Debug\標準體重計算.pdb
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\obj\Debug\標準體重計算.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\obj\Debug\標準體重計算.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\obj\Debug\標準體重計算.exe
+P:\OneDrive\CSharp\標準體重計算\標準體重計算\obj\Debug\標準體重計算.pdb

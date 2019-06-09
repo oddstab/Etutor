@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\計算平方值與立方值\計算平方值與立方值\bin\Debug\計算平方值與立方值.exe.config
+P:\OneDrive\CSharp\計算平方值與立方值\計算平方值與立方值\bin\Debug\計算平方值與立方值.exe
+P:\OneDrive\CSharp\計算平方值與立方值\計算平方值與立方值\bin\Debug\計算平方值與立方值.pdb
+P:\OneDrive\CSharp\計算平方值與立方值\計算平方值與立方值\obj\Debug\計算平方值與立方值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算平方值與立方值\計算平方值與立方值\obj\Debug\計算平方值與立方值.exe
+P:\OneDrive\CSharp\計算平方值與立方值\計算平方值與立方值\obj\Debug\計算平方值與立方值.pdb

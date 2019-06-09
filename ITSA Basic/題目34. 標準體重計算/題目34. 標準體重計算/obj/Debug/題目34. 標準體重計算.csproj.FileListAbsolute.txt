@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\題目34. 標準體重計算\題目34. 標準體重計算\bin\Debug\題目34.標準體重計算.exe.config
+P:\OneDrive\CSharp\題目34. 標準體重計算\題目34. 標準體重計算\bin\Debug\題目34.標準體重計算.exe
+P:\OneDrive\CSharp\題目34. 標準體重計算\題目34. 標準體重計算\bin\Debug\題目34.標準體重計算.pdb
+P:\OneDrive\CSharp\題目34. 標準體重計算\題目34. 標準體重計算\obj\Debug\題目34. 標準體重計算.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\題目34. 標準體重計算\題目34. 標準體重計算\obj\Debug\題目34.標準體重計算.exe
+P:\OneDrive\CSharp\題目34. 標準體重計算\題目34. 標準體重計算\obj\Debug\題目34.標準體重計算.pdb

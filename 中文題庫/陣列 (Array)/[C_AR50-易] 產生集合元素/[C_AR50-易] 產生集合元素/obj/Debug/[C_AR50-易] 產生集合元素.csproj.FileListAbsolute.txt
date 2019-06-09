@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\bin\Debug\[C_AR50-易] 產生集合元素.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\bin\Debug\[C_AR50-易] 產生集合元素.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\bin\Debug\[C_AR50-易] 產生集合元素.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\obj\Debug\[C_AR50-易] 產生集合元素.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\obj\Debug\[C_AR50-易] 產生集合元素.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\obj\Debug\[C_AR50-易] 產生集合元素.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 (Array)\[C_AR50-易] 產生集合元素\[C_AR50-易] 產生集合元素\obj\Debug\[C_AR50-易] 產生集合元素.pdb

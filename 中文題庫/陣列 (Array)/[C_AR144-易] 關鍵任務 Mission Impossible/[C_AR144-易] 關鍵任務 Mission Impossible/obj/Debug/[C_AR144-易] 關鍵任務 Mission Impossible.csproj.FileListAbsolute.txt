@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\bin\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\bin\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\bin\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\obj\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\obj\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\obj\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible\obj\Debug\[C_AR144-易] 關鍵任務 Mission Impossible.pdb

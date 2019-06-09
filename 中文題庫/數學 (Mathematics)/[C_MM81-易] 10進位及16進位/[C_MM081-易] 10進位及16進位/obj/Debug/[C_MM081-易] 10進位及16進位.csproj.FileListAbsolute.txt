@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\bin\Debug\[C_MM081-易] 10進位及16進位.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\bin\Debug\[C_MM081-易] 10進位及16進位.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\bin\Debug\[C_MM081-易] 10進位及16進位.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\obj\Debug\[C_MM081-易] 10進位及16進位.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\obj\Debug\[C_MM081-易] 10進位及16進位.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\obj\Debug\[C_MM081-易] 10進位及16進位.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_MM081-易] 10進位及16進位\[C_MM081-易] 10進位及16進位\obj\Debug\[C_MM081-易] 10進位及16進位.pdb

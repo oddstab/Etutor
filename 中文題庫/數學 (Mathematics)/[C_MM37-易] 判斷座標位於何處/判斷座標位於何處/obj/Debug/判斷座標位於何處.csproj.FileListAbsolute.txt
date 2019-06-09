@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\bin\Debug\判斷座標位於何處.exe.config
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\bin\Debug\判斷座標位於何處.exe
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\bin\Debug\判斷座標位於何處.pdb
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\obj\Debug\判斷座標位於何處.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\obj\Debug\判斷座標位於何處.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\obj\Debug\判斷座標位於何處.exe
+P:\OneDrive\CSharp\判斷座標位於何處\判斷座標位於何處\obj\Debug\判斷座標位於何處.pdb

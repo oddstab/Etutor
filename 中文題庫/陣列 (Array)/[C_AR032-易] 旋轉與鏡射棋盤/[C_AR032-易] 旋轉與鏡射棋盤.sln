@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR032-易] 旋轉與鏡射棋盤", "[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤.csproj", "{AA09818E-4076-4C93-8A81-7B277BCDA3E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA09818E-4076-4C93-8A81-7B277BCDA3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA09818E-4076-4C93-8A81-7B277BCDA3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA09818E-4076-4C93-8A81-7B277BCDA3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA09818E-4076-4C93-8A81-7B277BCDA3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9A3C45-433F-4437-85EA-21C0542D4562}
+	EndGlobalSection
+EndGlobal

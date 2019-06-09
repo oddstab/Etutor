@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\bin\Debug\計算MVP數值.exe.config
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\bin\Debug\計算MVP數值.exe
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\bin\Debug\計算MVP數值.pdb
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\obj\Debug\計算MVP數值.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\obj\Debug\計算MVP數值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\obj\Debug\計算MVP數值.exe
+P:\OneDrive\CSharp\計算MVP數值\計算MVP數值\obj\Debug\計算MVP數值.pdb

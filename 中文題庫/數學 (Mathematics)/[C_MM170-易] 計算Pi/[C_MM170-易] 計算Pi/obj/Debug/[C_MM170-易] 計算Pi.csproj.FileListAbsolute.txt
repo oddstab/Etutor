@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\bin\Debug\[C_MM170-易] 計算Pi.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\bin\Debug\[C_MM170-易] 計算Pi.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\bin\Debug\[C_MM170-易] 計算Pi.pdb
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\obj\Debug\[C_MM170-易] 計算Pi.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\obj\Debug\[C_MM170-易] 計算Pi.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\obj\Debug\[C_MM170-易] 計算Pi.exe
+P:\OneDrive\C#\Etutor\中文題庫\數學 IV(Mathematics IV)\[C_MM170-易] 計算Pi\[C_MM170-易] 計算Pi\obj\Debug\[C_MM170-易] 計算Pi.pdb

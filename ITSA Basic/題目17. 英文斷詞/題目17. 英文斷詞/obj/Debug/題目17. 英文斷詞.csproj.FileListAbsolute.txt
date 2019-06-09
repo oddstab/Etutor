@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\bin\Debug\題目17.英文斷詞.exe.config
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\bin\Debug\題目17.英文斷詞.exe
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\bin\Debug\題目17.英文斷詞.pdb
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\obj\Debug\題目17. 英文斷詞.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\obj\Debug\題目17. 英文斷詞.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\obj\Debug\題目17.英文斷詞.exe
+P:\OneDrive\CSharp\題目17. 英文斷詞\題目17. 英文斷詞\obj\Debug\題目17.英文斷詞.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR144-易] 關鍵任務 Mission Impossible", "[C_AR144-易] 關鍵任務 Mission Impossible\[C_AR144-易] 關鍵任務 Mission Impossible.csproj", "{15C83847-86F0-4C89-B44E-032A1525B048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C83847-86F0-4C89-B44E-032A1525B048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C83847-86F0-4C89-B44E-032A1525B048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C83847-86F0-4C89-B44E-032A1525B048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C83847-86F0-4C89-B44E-032A1525B048}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4EA91A0-0972-4EF3-BAE3-5A9900168818}
+	EndGlobalSection
+EndGlobal

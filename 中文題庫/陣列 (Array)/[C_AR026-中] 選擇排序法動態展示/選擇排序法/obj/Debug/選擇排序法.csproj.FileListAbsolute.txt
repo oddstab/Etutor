@@ -1,0 +1,13 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\bin\Debug\選擇排序法.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\bin\Debug\選擇排序法.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\bin\Debug\選擇排序法.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.pdb
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\bin\Debug\選擇排序法.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\bin\Debug\選擇排序法.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\bin\Debug\選擇排序法.pdb
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.exe
+P:\OneDrive\CSharp\Etutor\陣列 (Array)\[C_AR026-中] 選擇排序法動態展示\選擇排序法\obj\Debug\選擇排序法.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\bin\Debug\[AR49-易] Computing the trace of a matrix.exe.config
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\bin\Debug\[AR49-易] Computing the trace of a matrix.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\bin\Debug\[AR49-易] Computing the trace of a matrix.pdb
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\obj\Debug\[AR49-易] Computing the trace of a matrix.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\obj\Debug\[AR49-易] Computing the trace of a matrix.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\obj\Debug\[AR49-易] Computing the trace of a matrix.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR49-易] Computing the trace of a matrix\[AR49-易] Computing the trace of a matrix\obj\Debug\[AR49-易] Computing the trace of a matrix.pdb

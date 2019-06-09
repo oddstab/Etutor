@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\計算密碼\計算密碼\bin\Debug\計算密碼.exe.config
+P:\OneDrive\CSharp\計算密碼\計算密碼\bin\Debug\計算密碼.exe
+P:\OneDrive\CSharp\計算密碼\計算密碼\bin\Debug\計算密碼.pdb
+P:\OneDrive\CSharp\計算密碼\計算密碼\obj\Debug\計算密碼.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\計算密碼\計算密碼\obj\Debug\計算密碼.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算密碼\計算密碼\obj\Debug\計算密碼.exe
+P:\OneDrive\CSharp\計算密碼\計算密碼\obj\Debug\計算密碼.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\bin\Debug\Problem_4.算數移位相加.exe.config
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\bin\Debug\Problem_4.算數移位相加.exe
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\bin\Debug\Problem_4.算數移位相加.pdb
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\obj\Debug\Problem 4. 算數移位相加.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\obj\Debug\Problem 4. 算數移位相加.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\obj\Debug\Problem_4.算數移位相加.exe
+P:\OneDrive\CSharp\Etutor\ITSA\68\Problem 4. 算數移位相加\Problem 4. 算數移位相加\obj\Debug\Problem_4.算數移位相加.pdb

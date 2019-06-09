@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\bin\Debug\[C_AR032-易] 旋轉與鏡射棋盤.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\bin\Debug\[C_AR032-易] 旋轉與鏡射棋盤.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\bin\Debug\[C_AR032-易] 旋轉與鏡射棋盤.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\obj\Debug\[C_AR032-易] 旋轉與鏡射棋盤.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\obj\Debug\[C_AR032-易] 旋轉與鏡射棋盤.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\obj\Debug\[C_AR032-易] 旋轉與鏡射棋盤.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR032-易] 旋轉與鏡射棋盤\[C_AR032-易] 旋轉與鏡射棋盤\obj\Debug\[C_AR032-易] 旋轉與鏡射棋盤.pdb

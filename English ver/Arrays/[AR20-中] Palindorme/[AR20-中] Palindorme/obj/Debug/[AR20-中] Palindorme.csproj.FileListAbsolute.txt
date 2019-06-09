@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\bin\Debug\[AR20-中] Palindorme.exe.config
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\bin\Debug\[AR20-中] Palindorme.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\bin\Debug\[AR20-中] Palindorme.pdb
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\obj\Debug\[AR20-中] Palindorme.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\obj\Debug\[AR20-中] Palindorme.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\obj\Debug\[AR20-中] Palindorme.exe
+P:\OneDrive\C#\Etutor\English Database\Arrays\[AR20-中] Palindorme\[AR20-中] Palindorme\obj\Debug\[AR20-中] Palindorme.pdb

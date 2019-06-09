@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST26-易] 信用卡卡號檢查\[C_ST26-易] 信用卡卡號檢查\obj\Debug\[C_ST26-易] 信用卡卡號檢查.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST26-易] 信用卡卡號檢查\[C_ST26-易] 信用卡卡號檢查\bin\Debug\[C_ST26-易] 信用卡卡號檢查.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST26-易] 信用卡卡號檢查\[C_ST26-易] 信用卡卡號檢查\bin\Debug\[C_ST26-易] 信用卡卡號檢查.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST26-易] 信用卡卡號檢查\[C_ST26-易] 信用卡卡號檢查\bin\Debug\[C_ST26-易] 信用卡卡號檢查.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST26-易] 信用卡卡號檢查\[C_ST26-易] 信用卡卡號檢查\obj\Debug\[C_ST26-易] 信用卡卡號檢查.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST26-易] 信用卡卡號檢查\[C_ST26-易] 信用卡卡號檢查\obj\Debug\[C_ST26-易] 信用卡卡號檢查.pdb

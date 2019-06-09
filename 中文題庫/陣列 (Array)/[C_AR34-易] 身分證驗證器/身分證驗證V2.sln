@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "身分證驗證V2", "身分證驗證V2\身分證驗證V2.csproj", "{00B68450-681E-4DA3-9C64-DE18A31B636F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B68450-681E-4DA3-9C64-DE18A31B636F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B68450-681E-4DA3-9C64-DE18A31B636F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B68450-681E-4DA3-9C64-DE18A31B636F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B68450-681E-4DA3-9C64-DE18A31B636F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7442051F-AF38-4377-A592-350E503A0B5A}
+	EndGlobalSection
+EndGlobal

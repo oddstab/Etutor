@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "題目23. 找零錢問題", "題目23. 找零錢問題\題目23. 找零錢問題.csproj", "{CCF14DA7-1C02-4DFC-8704-C8BA86CF287E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF14DA7-1C02-4DFC-8704-C8BA86CF287E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF14DA7-1C02-4DFC-8704-C8BA86CF287E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF14DA7-1C02-4DFC-8704-C8BA86CF287E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF14DA7-1C02-4DFC-8704-C8BA86CF287E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E1E58BF-3843-4BDF-A410-3627F93984AE}
+	EndGlobalSection
+EndGlobal

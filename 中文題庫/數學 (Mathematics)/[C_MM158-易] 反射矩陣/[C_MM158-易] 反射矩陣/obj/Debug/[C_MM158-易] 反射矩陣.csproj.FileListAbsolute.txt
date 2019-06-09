@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\bin\Debug\[C_MM158-易] 反射矩陣.exe.config
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\bin\Debug\[C_MM158-易] 反射矩陣.exe
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\bin\Debug\[C_MM158-易] 反射矩陣.pdb
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\obj\Debug\[C_MM158-易] 反射矩陣.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\obj\Debug\[C_MM158-易] 反射矩陣.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\obj\Debug\[C_MM158-易] 反射矩陣.exe
+P:\OneDrive\CSharp\Etutor\數學 IV(Mathematics IV)\[C_MM158-易] 反射矩陣\[C_MM158-易] 反射矩陣\obj\Debug\[C_MM158-易] 反射矩陣.pdb

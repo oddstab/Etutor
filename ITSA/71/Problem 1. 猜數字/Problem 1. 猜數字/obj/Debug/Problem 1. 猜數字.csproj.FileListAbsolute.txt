@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\bin\Debug\Problem_1.猜數字.exe.config
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\bin\Debug\Problem_1.猜數字.exe
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\bin\Debug\Problem_1.猜數字.pdb
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\obj\Debug\Problem 1. 猜數字.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\obj\Debug\Problem 1. 猜數字.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\obj\Debug\Problem_1.猜數字.exe
+P:\OneDrive\C#\Etutor\ITSA\71\Problem 1. 猜數字\Problem 1. 猜數字\obj\Debug\Problem_1.猜數字.pdb

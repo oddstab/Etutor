@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\執行質因數分解\執行質因數分解\bin\Debug\執行質因數分解.exe.config
+P:\OneDrive\CSharp\執行質因數分解\執行質因數分解\bin\Debug\執行質因數分解.exe
+P:\OneDrive\CSharp\執行質因數分解\執行質因數分解\bin\Debug\執行質因數分解.pdb
+P:\OneDrive\CSharp\執行質因數分解\執行質因數分解\obj\Debug\執行質因數分解.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\執行質因數分解\執行質因數分解\obj\Debug\執行質因數分解.exe
+P:\OneDrive\CSharp\執行質因數分解\執行質因數分解\obj\Debug\執行質因數分解.pdb

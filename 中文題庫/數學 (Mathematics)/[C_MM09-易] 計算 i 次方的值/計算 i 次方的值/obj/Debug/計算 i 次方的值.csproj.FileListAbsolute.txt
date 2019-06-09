@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\計算 i 次方的值\計算 i 次方的值\bin\Debug\計算 i 次方的值.exe.config
+P:\OneDrive\CSharp\計算 i 次方的值\計算 i 次方的值\bin\Debug\計算 i 次方的值.exe
+P:\OneDrive\CSharp\計算 i 次方的值\計算 i 次方的值\bin\Debug\計算 i 次方的值.pdb
+P:\OneDrive\CSharp\計算 i 次方的值\計算 i 次方的值\obj\Debug\計算 i 次方的值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\計算 i 次方的值\計算 i 次方的值\obj\Debug\計算 i 次方的值.exe
+P:\OneDrive\CSharp\計算 i 次方的值\計算 i 次方的值\obj\Debug\計算 i 次方的值.pdb

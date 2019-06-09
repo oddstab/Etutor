@@ -1,0 +1,13 @@
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\bin\Debug\[C_AR76-易] 提款機程式.exe.config
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\bin\Debug\[C_AR76-易] 提款機程式.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\bin\Debug\[C_AR76-易] 提款機程式.pdb
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.exe
+P:\OneDrive\CSharp\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\bin\Debug\[C_AR76-易] 提款機程式.exe.config
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\bin\Debug\[C_AR76-易] 提款機程式.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\bin\Debug\[C_AR76-易] 提款機程式.pdb
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.exe
+P:\OneDrive\CSharp\Etutor\陣列 II (Arrayc II)\[C_AR76-易] 提款機程式\[C_AR76-易] 提款機程式\obj\Debug\[C_AR76-易] 提款機程式.pdb

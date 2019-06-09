@@ -1,0 +1,14 @@
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\bin\Debug\題目39.考試測驗.exe.config
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\bin\Debug\題目39.考試測驗.exe
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\bin\Debug\題目39.考試測驗.pdb
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39. 考試測驗.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39. 考試測驗.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39.考試測驗.exe
+P:\OneDrive\CSharp\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39.考試測驗.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\bin\Debug\題目39.考試測驗.exe.config
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\bin\Debug\題目39.考試測驗.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\bin\Debug\題目39.考試測驗.pdb
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39. 考試測驗.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39. 考試測驗.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39.考試測驗.exe
+P:\OneDrive\C#\Etutor\ITSA Basic\題目39. 考試測驗\題目39. 考試測驗\obj\Debug\題目39.考試測驗.pdb

@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\bin\Debug\[SO14-中] strings.exe.config
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\bin\Debug\[SO14-中] strings.exe
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\bin\Debug\[SO14-中] strings.pdb
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\obj\Debug\[SO14-中] strings.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\obj\Debug\[SO14-中] strings.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\obj\Debug\[SO14-中] strings.exe
+P:\OneDrive\C#\Etutor\English Database\Sorting\[SO14-中] strings\[SO14-中] strings\obj\Debug\[SO14-中] strings.pdb

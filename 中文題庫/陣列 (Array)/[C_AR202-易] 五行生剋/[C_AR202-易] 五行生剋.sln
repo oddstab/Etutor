@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[C_AR202-易] 五行生剋", "[C_AR202-易] 五行生剋\[C_AR202-易] 五行生剋.csproj", "{341580BB-4A16-421A-A895-B246041E29F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341580BB-4A16-421A-A895-B246041E29F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341580BB-4A16-421A-A895-B246041E29F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341580BB-4A16-421A-A895-B246041E29F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341580BB-4A16-421A-A895-B246041E29F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6805E34-06FA-40C6-980F-E5D6B5C4282E}
+	EndGlobalSection
+EndGlobal

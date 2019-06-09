@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\bin\Debug\Problem_2.近似值.exe.config
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\bin\Debug\Problem_2.近似值.exe
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\bin\Debug\Problem_2.近似值.pdb
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\obj\Debug\Problem 2. 近似值.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\obj\Debug\Problem 2. 近似值.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\obj\Debug\Problem_2.近似值.exe
+P:\OneDrive\CSharp\Etutor\ITSA\70\Problem 2. 近似值\Problem 2. 近似值\obj\Debug\Problem_2.近似值.pdb

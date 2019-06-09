@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\bin\Debug\[C_AR151-易] 井字遊戲判斷.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\bin\Debug\[C_AR151-易] 井字遊戲判斷.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\bin\Debug\[C_AR151-易] 井字遊戲判斷.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\obj\Debug\[C_AR151-易] 井字遊戲判斷.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\obj\Debug\[C_AR151-易] 井字遊戲判斷.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\obj\Debug\[C_AR151-易] 井字遊戲判斷.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 IIII (Arrayc IIII)\[C_AR151-易] 井字遊戲判斷\[C_AR151-易] 井字遊戲判斷\obj\Debug\[C_AR151-易] 井字遊戲判斷.pdb

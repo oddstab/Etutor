@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\Ugly number\Ugly number\bin\Debug\Ugly number.exe.config
+P:\OneDrive\CSharp\Ugly number\Ugly number\bin\Debug\Ugly number.exe
+P:\OneDrive\CSharp\Ugly number\Ugly number\bin\Debug\Ugly number.pdb
+P:\OneDrive\CSharp\Ugly number\Ugly number\obj\Debug\Ugly number.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\Ugly number\Ugly number\obj\Debug\Ugly number.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\Ugly number\Ugly number\obj\Debug\Ugly number.exe
+P:\OneDrive\CSharp\Ugly number\Ugly number\obj\Debug\Ugly number.pdb

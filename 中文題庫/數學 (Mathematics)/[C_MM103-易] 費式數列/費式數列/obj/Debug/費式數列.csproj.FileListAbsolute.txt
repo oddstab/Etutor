@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\費式數列\費式數列\bin\Debug\費式數列.exe.config
+P:\OneDrive\CSharp\費式數列\費式數列\bin\Debug\費式數列.exe
+P:\OneDrive\CSharp\費式數列\費式數列\bin\Debug\費式數列.pdb
+P:\OneDrive\CSharp\費式數列\費式數列\obj\Debug\費式數列.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\費式數列\費式數列\obj\Debug\費式數列.exe
+P:\OneDrive\CSharp\費式數列\費式數列\obj\Debug\費式數列.pdb

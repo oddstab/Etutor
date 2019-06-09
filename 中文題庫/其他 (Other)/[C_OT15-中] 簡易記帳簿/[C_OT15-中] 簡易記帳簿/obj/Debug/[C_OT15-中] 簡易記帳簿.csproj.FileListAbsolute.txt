@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\bin\Debug\[C_OT15-中] 簡易記帳簿.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\bin\Debug\[C_OT15-中] 簡易記帳簿.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\bin\Debug\[C_OT15-中] 簡易記帳簿.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\obj\Debug\[C_OT15-中] 簡易記帳簿.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\obj\Debug\[C_OT15-中] 簡易記帳簿.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\obj\Debug\[C_OT15-中] 簡易記帳簿.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_OT15-中] 簡易記帳簿\[C_OT15-中] 簡易記帳簿\obj\Debug\[C_OT15-中] 簡易記帳簿.pdb

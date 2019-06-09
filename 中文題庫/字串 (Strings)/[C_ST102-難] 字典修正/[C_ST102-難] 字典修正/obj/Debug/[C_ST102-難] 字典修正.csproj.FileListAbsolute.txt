@@ -1,0 +1,14 @@
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\bin\Debug\[C_ST102-難] 字典修正.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\bin\Debug\[C_ST102-難] 字典修正.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\bin\Debug\[C_ST102-難] 字典修正.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 III(Strings III)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\bin\Debug\[C_ST102-難] 字典修正.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\bin\Debug\[C_ST102-難] 字典修正.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\bin\Debug\[C_ST102-難] 字典修正.pdb
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.exe
+P:\OneDrive\C#\Etutor\中文題庫\字串 (Strings)\[C_ST102-難] 字典修正\[C_ST102-難] 字典修正\obj\Debug\[C_ST102-難] 字典修正.pdb

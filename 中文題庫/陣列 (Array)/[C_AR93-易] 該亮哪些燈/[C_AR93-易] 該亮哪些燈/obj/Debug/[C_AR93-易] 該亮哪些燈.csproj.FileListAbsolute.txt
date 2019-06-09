@@ -1,0 +1,7 @@
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\bin\Debug\[C_AR93-易] 該亮哪些燈.exe.config
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\bin\Debug\[C_AR93-易] 該亮哪些燈.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\bin\Debug\[C_AR93-易] 該亮哪些燈.pdb
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\obj\Debug\[C_AR93-易] 該亮哪些燈.csprojAssemblyReference.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\obj\Debug\[C_AR93-易] 該亮哪些燈.csproj.CoreCompileInputs.cache
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\obj\Debug\[C_AR93-易] 該亮哪些燈.exe
+P:\OneDrive\C#\Etutor\中文題庫\陣列 II (Arrayc II)\[C_AR93-易] 該亮哪些燈\[C_AR93-易] 該亮哪些燈\obj\Debug\[C_AR93-易] 該亮哪些燈.pdb

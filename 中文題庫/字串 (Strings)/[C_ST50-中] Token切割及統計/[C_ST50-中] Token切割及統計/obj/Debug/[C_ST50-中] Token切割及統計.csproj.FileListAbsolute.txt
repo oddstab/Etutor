@@ -1,0 +1,7 @@
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\bin\Debug\[C_ST50-中] Token切割及統計.exe.config
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\bin\Debug\[C_ST50-中] Token切割及統計.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\bin\Debug\[C_ST50-中] Token切割及統計.pdb
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\obj\Debug\[C_ST50-中] Token切割及統計.csprojAssemblyReference.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\obj\Debug\[C_ST50-中] Token切割及統計.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\obj\Debug\[C_ST50-中] Token切割及統計.exe
+P:\OneDrive\CSharp\字串 (Strings)\[C_ST50-中] Token切割及統計\[C_ST50-中] Token切割及統計\obj\Debug\[C_ST50-中] Token切割及統計.pdb

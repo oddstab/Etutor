@@ -1,0 +1,6 @@
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換\bin\Debug\[C_AR37-易] 進制轉換.exe.config
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換\bin\Debug\[C_AR37-易] 進制轉換.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換\bin\Debug\[C_AR37-易] 進制轉換.pdb
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換\obj\Debug\[C_AR37-易] 進制轉換.csproj.CoreCompileInputs.cache
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換\obj\Debug\[C_AR37-易] 進制轉換.exe
+P:\OneDrive\CSharp\陣列 (Array)\[C_AR37-易] 進制轉換\[C_AR37-易] 進制轉換\obj\Debug\[C_AR37-易] 進制轉換.pdb

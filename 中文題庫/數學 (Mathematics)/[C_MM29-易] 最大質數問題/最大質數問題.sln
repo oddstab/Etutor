@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大質數問題", "最大質數問題\最大質數問題.csproj", "{B22EB81E-3048-4B6B-81F7-798F2A2FA6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B22EB81E-3048-4B6B-81F7-798F2A2FA6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22EB81E-3048-4B6B-81F7-798F2A2FA6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22EB81E-3048-4B6B-81F7-798F2A2FA6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22EB81E-3048-4B6B-81F7-798F2A2FA6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661A3279-88CB-4657-A100-7C09E8F73946}
+	EndGlobalSection
+EndGlobal

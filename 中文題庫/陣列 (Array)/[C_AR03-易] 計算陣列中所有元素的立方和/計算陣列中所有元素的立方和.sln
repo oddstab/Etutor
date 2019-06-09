@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計算陣列中所有元素的立方和", "計算陣列中所有元素的立方和\計算陣列中所有元素的立方和.csproj", "{F2EE7DE2-870C-40EC-B930-7BF68E450527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EE7DE2-870C-40EC-B930-7BF68E450527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EE7DE2-870C-40EC-B930-7BF68E450527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EE7DE2-870C-40EC-B930-7BF68E450527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EE7DE2-870C-40EC-B930-7BF68E450527}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573A92B8-9E2C-434F-8AEB-DE8E0078B08B}
+	EndGlobalSection
+EndGlobal

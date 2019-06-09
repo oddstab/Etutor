@@ -1,0 +1,7 @@
+c:\users\chen\source\repos\平閏年\平閏年\bin\Debug\平閏年.exe.config
+c:\users\chen\source\repos\平閏年\平閏年\bin\Debug\平閏年.exe
+c:\users\chen\source\repos\平閏年\平閏年\bin\Debug\平閏年.pdb
+c:\users\chen\source\repos\平閏年\平閏年\obj\Debug\平閏年.csprojResolveAssemblyReference.cache
+c:\users\chen\source\repos\平閏年\平閏年\obj\Debug\平閏年.csproj.CoreCompileInputs.cache
+c:\users\chen\source\repos\平閏年\平閏年\obj\Debug\平閏年.exe
+c:\users\chen\source\repos\平閏年\平閏年\obj\Debug\平閏年.pdb
